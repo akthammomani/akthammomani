@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akthammomani)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akthammomani&layout=compact)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=repo-name)](https://github.com/akthammomanie/repo-name)
