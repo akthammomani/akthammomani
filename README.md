@@ -4,8 +4,8 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
 
 👇 𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦 👇
   * Advanced time series analysis.
-  ● Deep learning, including: Deep learning Implementation and Neural network architectures.
-  ● Production machine learning methods: Deploying models.
+  * Deep learning, including: Deep learning Implementation and Neural network architectures.
+  * Production machine learning methods: Deploying models.
   ● Natural Language Processing (NLP)
   ● Image Processing.
   ● Data Science at scale including: Hadoop, Spark, PySpark and Neural networks.
