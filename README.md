@@ -49,13 +49,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-- 🌱 I’m currently learning Advanced Machine Learning!!!
-- 📫 How to reach me: <a href="https://linkedin.com/in/akthammomani">@Akthammomani</a> 
-
-
 ## My Repos
 
 [![Predicting-House-Prices-CA-Bay-Area](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Predicting-House-Prices-CA-Bay-Area&show_owner=true)](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area) [![Mini-Data-Science-Projects](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Mini-Data-Science-Projects&show_owner=true)](https://github.com/akthammomani/Mini-Data-Science-Projects)
