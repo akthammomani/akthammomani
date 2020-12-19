@@ -1,5 +1,7 @@
 
-[![Header](https://raw.githubusercontent.com/akthammomani/akthammomani/Header.png "Header")](https://linkedin.com/in/akthammomani/)
+[![Header](https://raw.githubusercontent.com/akthammomani/akthammomani/Header.PNG "Header")](https://linkedin.com/in/akthammomani/)
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
 
 ### Hi there 👋
