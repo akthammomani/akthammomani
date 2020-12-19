@@ -32,20 +32,15 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
+- 🌱 I’m currently learning Advanced Machine Learning!!!
+- 📫 How to reach me: <a href="https://linkedin.com/in/akthammomani">@Akthammomani</a> 
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
+[![Predicting-House-Prices-CA-Bay-Area](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=statsfig&show_owner=true)](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
+[![Mini-Data-Science-Projects](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=vennfig&show_owner=true)](https://github.com/akthammomani/Mini-Data-Science-Projects)
 
 
 
@@ -53,8 +48,3 @@ Here are some ideas to get you started:
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
