@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=akthammomani&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akthammomani) 
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -59,14 +57,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MicrosoftSQL-informational?style=flat&logo=microsoftsql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
-
-
-
-
-
-
-## My Repos
-
-[![Predicting-House-Prices-CA-Bay-Area](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Predicting-House-Prices-CA-Bay-Area&show_owner=true)](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area) [![Mini-Data-Science-Projects](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Mini-Data-Science-Projects&show_owner=true)](https://github.com/akthammomani/Mini-Data-Science-Projects)
-
-
