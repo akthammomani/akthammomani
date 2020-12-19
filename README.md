@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/akthammomani/akthammomani/master/Header.PNG "Header")](https://linkedin.com/in/akthammomani/)
+[![Header](https://raw.githubusercontent.com/akthammomani/akthammomani/master/Header.PNG | width=100 "Header")](https://linkedin.com/in/akthammomani/)
 
 ### Hi there 👋 <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
 
