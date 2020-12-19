@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=akthammomani&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akthammomani) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akthammomani&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=akthammomani&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akthammomani) 
 
 
 
@@ -57,10 +57,7 @@ Here are some ideas to get you started:
 
 ## My Repos
 
-[![Predicting-House-Prices-CA-Bay-Area](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Predicting-House-Prices-CA-Bay-Area&show_owner=true)](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)
-
-[![Mini-Data-Science-Projects](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Mini-Data-Science-Projects&show_owner=true)](https://github.com/akthammomani/Mini-Data-Science-Projects)
-
+[![Predicting-House-Prices-CA-Bay-Area](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Predicting-House-Prices-CA-Bay-Area&show_owner=true)](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area) [![Mini-Data-Science-Projects](https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Mini-Data-Science-Projects&show_owner=true)](https://github.com/akthammomani/Mini-Data-Science-Projects)
 
 
 **Languages and Tools:**  
