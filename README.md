@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MicrosoftSQL-informational?style=flat&logo=microsoftsql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jypter-informational?style=flat&logo=jypter&logoColor=white&color=2bbc8a)
