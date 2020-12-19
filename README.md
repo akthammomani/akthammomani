@@ -1,9 +1,6 @@
 
 [![Header](https://raw.githubusercontent.com/akthammomani/akthammomani/master/Header.PNG "Header")](https://linkedin.com/in/akthammomani/)
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
-
 ### Hi there 👋
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
