@@ -1,7 +1,7 @@
 
 [![Header](https://raw.githubusercontent.com/akthammomani/akthammomani/master/Header.PNG "Header")](https://linkedin.com/in/akthammomani/)
 
-### Hi there 👋
+### Hi there 👋 <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
 
