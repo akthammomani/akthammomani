@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/akthammomani/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 Aspiring Data Scientist with over 15 years of experience, regularly using SQL and statistical modeling for data analysis purposes. Currently obtaining a Data Science Certificate in Advanced Machine Learning to enhance my skills further in Python, Data Cleaning, Data Wrangling, Exploratory Data Analysis, Pre-Processing & Training, Feature Engineering, Machine Learning Algorithms, Deep Learning and advanced statistical modeling techniques.
