@@ -6,23 +6,23 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
   * Advanced time series analysis.
   * Deep learning, including: Deep learning Implementation and Neural network architectures.
   * Production machine learning methods: Deploying models.
-  ● Natural Language Processing (NLP)
-  ● Image Processing.
-  ● Data Science at scale including: Hadoop, Spark, PySpark and Neural networks.
-  ● Advanced data visualization: Matplotlib, seaborn, Tableau, Plotly, Bokeh and D3.js.
-  ● Advanced SQL: MySQL, Microsoft SQL Server, NoSQL, and PostgreSQL.
-  ● Data Cleaning, Data Wrangling and Exploratory Data Analysis.
+  * Natural Language Processing (NLP)
+  * Image Processing.
+  * Data Science at scale including: Hadoop, Spark, PySpark and Neural networks.
+  * Advanced data visualization: Matplotlib, seaborn, Tableau, Plotly, Bokeh and D3.js.
+  * Advanced SQL: MySQL, Microsoft SQL Server, NoSQL, and PostgreSQL.
+  * Data Cleaning, Data Wrangling and Exploratory Data Analysis.
 
 👇 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 👇
-  ● Constant Learner.
-  ● Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL.
-  ● Primary Language: Python (NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, seaborn, Plotly, Scrapy, BeautifulSoup, requests).
-  ● Automation: FME Workbench/Server.
-  ● Tableau Certified - Data Scientist.
-  ● Tableau Certified - Data Analyst.
-  ● Business Intelligence Tools: Tableau, looker, business object, Jupyter/Anaconda, GitHub/Git, Toad Datapoint and PowerBI.
-  ● Effective verbal and written communication for technical and non-technical audiences.
-  ● Passionate about working with big data and the ability to translate insights into business recommendations.
+  * Constant Learner.
+  * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL.
+  * Primary Language: Python (NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, seaborn, Plotly, Scrapy, BeautifulSoup, requests).
+  * Automation: FME Workbench/Server.
+  * Tableau Certified - Data Scientist.
+  * Tableau Certified - Data Analyst.
+  * Business Intelligence Tools: Tableau, looker, business object, Jupyter/Anaconda, GitHub/Git, Toad Datapoint and PowerBI.
+  * Effective verbal and written communication for technical and non-technical audiences.
+  * Passionate about working with big data and the ability to translate insights into business recommendations.
 
 My past roles have been focused as a SME in the cellular engineering space building roadmaps, performance metrics, and emerging technologies. Global work history includes major cellular assignments with AT&T, T-Mobile, Orange Armenia, Nokia-South Africa, Ericsson, and other world-class cellular companies. Experienced in 3GPP Releases and Their Evolution and Impact on Radio Networks and Devices.
 
