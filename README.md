@@ -25,7 +25,7 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
   * Automation: FME Workbench/Server.
   * Tableau Certified - Data Scientist.
   * Tableau Certified - Data Analyst.
-  * Business Intelligence Tools: Tableau, looker, business object, Jupyter/Anaconda, GitHub/Git, Toad Datapoint and PowerBI.
+  * Business Intelligence Tools: Tableau, looker, business object, Jupyter/Anaconda, GitHub/Git, Toad Datapoint, Microsoft Excel, Microsoft Power Point and PowerBI.
   * Effective verbal and written communication for technical and non-technical audiences.
   * Passionate about working with big data and the ability to translate insights into business recommendations.
 
