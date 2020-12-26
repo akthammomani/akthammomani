@@ -60,20 +60,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Feature Projects
 
-
-<a href="https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Predicting-House-Prices-CA-Bay-Area&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/akthammomani/Mini-Data-Science-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Mini-Data-Science-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-
-<a href="https://github.com/akthammomani/SQL_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=SQL_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 
