@@ -81,5 +81,26 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Big-Mountain-Resort-Pricing-Model&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+<a href="https://github.com/akthammomani/Google-vs-Apple-Store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=Google-vs-Apple-Store&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/akthammomani/London-boroughs-Housing-Prices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=BLondon-boroughs-Housing-Prices&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/akthammomani/GreatSchools-API-XML-Pandas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=BGreatSchools-API-XML-Pandas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/akthammomani/Python-Data-Science-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=BPython-Data-Science-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/akthammomani/SQL-Data-Science-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akthammomani&repo=SQL-Data-Science-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+
 
 
