@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔧 Technologies & Tools
+## 🔨 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+## 🎯 Trainings and Certifications:
+
 
 | Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |
 |:---: | :---: |:---: | :---: |:---: | :---: | :---: | :---: |
