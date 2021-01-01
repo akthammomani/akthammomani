@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 
 | No. | **Course Name**  |  No. | **Course Name**   |  No. | **Course Name**   |  No.| **Course Name**   |
-|:--- |:--- |:--- |:--- |:--- |:---|:--- |:--- |
+|:---: |:--- |:---: |:--- |:---: |:---|:---: |:--- |
 | 1 | Cleaning Data in Python |11 | Data Visualization: Storytelling |21 | Learning LabVIEW |31 | Strategic Thinking |
 | 2 | Data Manipulation using NumPy |12 | ENM Python Scripting Virtualization |22 | Looker First Look |32 | Tableau Analyst - Certified |
 | 3 | Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |13 | Git for Data Science |23 | Manipulating DataFrames with Pandas |33 | Tableau Data Scientist - Certified |
