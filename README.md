@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 |GreatSchools-API-XML-Pandas | Data was requested from GreatSchools.Org REST API to complete "Predicting House Prices in California" Project |
 | London-boroughs-Housing-Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? |
 | Python-Data-Science-Projects | Many projects applying Data Science using Python |
-| SQL-Data-Science-Projects | wide variety of methods for transforming, manipulating, and calculating data to answer a wide variety of questions in SQL |
+| SQL-Data-Science-Projects | Many projects applying Data Science using SQL |
 
 
 
