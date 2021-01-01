@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ## 📈 Repostories & Projects Summary:
 
-| Repository Name  | Summary  |
+| **Repository Name**  | **Summary**  |
 | :--- |:--- | 
 | Predicting-House-Prices-CA-Bay-Area | Predicting House Prices in California - Bay Area |
 | Big-Mountain-Resort-Pricing-Model | To come up with a pricing model for ski resort tickets |
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ## 🎯 Trainings & Certifications:
 
 
-| Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |
+| **Course #** | **Course Name**  |  **Course #** | **Course Name**   |  **Course #** | **Course Name**   |  **Course #** | **Course Name**   |
 |:---: | :---: |:---: | :---: |:---: | :---: | :---: | :---: |
 | 1 | Cleaning Data in Python |11 | Data Visualization: Storytelling |21 | Learning LabVIEW |31 | Strategic Thinking |
 | 2 | Data Manipulation using NumPy |12 | ENM Python Scripting Virtualization |22 | Looker First Look |32 | Tableau Analyst - Certified |
