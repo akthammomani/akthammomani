@@ -63,50 +63,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-| Course # | Course Name  |
-| --- | --- |
-| 1 | Cleaning Data in Python |
-| 2 | Data Manipulation using NumPy |
-| 3 | Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |
-| 4 | Data Types for Data Science in Python |
-| 5 | Exploratory Data Analysis in Python |
-| 6 | Intermediate SQL |
-| 7 | Statistical Thinking in Python (Part 1) |
-| 8 | Advanced LPWA for IoT Virtulization |
-| 9 | Creating Interactive Tableau Dashboards |
-| 10 | Data Visualization Workshop - Tableau |
-| 11 | Data Visualization: Storytelling |
-| 12 | ENM Python Scripting Virtualization |
-| 13 | Git for Data Science |
-| 14 | Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |
-| 15 | Intermediate Importing Data in Python |
-| 16 | Intermediate Python for Data Science |
-| 17 | Intro to Hadoop and MapReduce |
-| 18 | Introduction to Importing Data in Python |
-| 19 | Joining Data in PostgreSQL, |
-| 20 | LTE-U and LAA |
-| 21 | Learning LabVIEW |
-| 22 | Looker First Look |
-| 23 | Manipulating DataFrames with Pandas |
-| 24 | Merging DataFrames with Pandas |
-| 25 | Neural Networks and Deep Learning |
-| 26 | Pandas Foundations |
-| 27 | Python Data Science Toolbox (Part 1) |
-| 28 | Python Data Science Toolbox (Part 2) |
-| 29 | SQL for Data Science - PostgreSQL, MySQL, SQL Server |
-| 30 | Shell for Data Science |
-| 31 | Strategic Thinking |
-| 32 | Tableau Analyst - Certified |
-| 33 | Tableau Data Scientist - Certified |
-| 34 | Tableau Desktop I: Fundamentals |
-| 35 | Tableau Desktop II: Intermediate |
-| 36 | Tableau Desktop III: Advanced |
-| 37 | Tableau and R for Analytics Projects |
-| 38 | Web Scraping in Python Using Scrapy |
-
-
 | Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+|:---: | :---: |:---: | :---: |:---: | :---: | :---: | :---: |
 | 1 | Cleaning Data in Python |11 | Data Visualization: Storytelling |21 | Learning LabVIEW |31 | Strategic Thinking |
 | 2 | Data Manipulation using NumPy |12 | ENM Python Scripting Virtualization |22 | Looker First Look |32 | Tableau Analyst - Certified |
 | 3 | Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |13 | Git for Data Science |23 | Manipulating DataFrames with Pandas |33 | Tableau Data Scientist - Certified |
@@ -117,6 +75,7 @@ Here are some ideas to get you started:
 | 8 | Advanced LPWA for IoT Virtulization |18 | Introduction to Importing Data in Python |28 | Python Data Science Toolbox (Part 2) |38 | Web Scraping in Python Using Scrapy |
 | 9 | Creating Interactive Tableau Dashboards |19 | Joining Data in PostgreSQL |29 | SQL for Data Science - PostgreSQL, MySQL, SQL Server | 39 |      |
 | 10 | Data Visualization Workshop - Tableau |20 | LTE-U and LAA |30 | Shell for Data Science |40 |      |
+
 
 
 
