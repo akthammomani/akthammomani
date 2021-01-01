@@ -96,18 +96,6 @@ Here are some ideas to get you started:
 | 9 | Creating Interactive Tableau Dashboards |19 | Joining Data in PostgreSQL |29 | SQL for Data Science - PostgreSQL, MySQL, SQL Server | 39 |      |
 | 10 | Data Visualization Workshop - Tableau |20 | LTE-U and LAA |30 | Shell for Data Science |40 |      |
 
-| Course Name  | Course Name  | Course Name  | Course Name  |
-|:---|:---|:---|:---|
-|Cleaning Data in Python |Data Visualization: Storytelling |Learning LabVIEW |Strategic Thinking |
-|Data Manipulation using NumPy |ENM Python Scripting Virtualization |Looker First Look |Tableau Analyst - Certified |
-|Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |Git for Data Science |Manipulating DataFrames with Pandas |Tableau Data Scientist - Certified |
-|Data Types for Data Science in Python |Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |Merging DataFrames with Pandas |Tableau Desktop I: Fundamentals |
-|Exploratory Data Analysis in Python | Intermediate Importing Data in Python |Neural Networks and Deep Learning |Tableau Desktop II: Intermediate |
-|Intermediate SQL |Intermediate Python for Data Science |Pandas Foundations |Tableau Desktop III: Advanced |
-|Statistical Thinking in Python (Part 1) |Intro to Hadoop and MapReduce |Python Data Science Toolbox (Part 1) |Tableau and R for Analytics Projects |
-|Advanced LPWA for IoT Virtulization |Introduction to Importing Data in Python |Python Data Science Toolbox (Part 2) |Web Scraping in Python Using Scrapy |
-|Creating Interactive Tableau Dashboards |Joining Data in PostgreSQL |SQL for Data Science - PostgreSQL, MySQL, SQL Server |      |
-|Data Visualization Workshop - Tableau |LTE-U and LAA |Shell for Data Science |   |
 
 
 
