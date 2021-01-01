@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 | 10 | Data Visualization Workshop - Tableau |20 | LTE-U and LAA |30 | Shell for Data Science |40 |      |
 
 | Course Name  | Course Name  | Course Name  | Course Name  |
-|:---|:---|:---| :---|
+|:---|:---|:---|:---|
 |Cleaning Data in Python |Data Visualization: Storytelling |Learning LabVIEW |Strategic Thinking |
 |Data Manipulation using NumPy |ENM Python Scripting Virtualization |Looker First Look |Tableau Analyst - Certified |
 |Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |Git for Data Science |Manipulating DataFrames with Pandas |Tableau Data Scientist - Certified |
@@ -108,6 +108,7 @@ Here are some ideas to get you started:
 |Advanced LPWA for IoT Virtulization |Introduction to Importing Data in Python |Python Data Science Toolbox (Part 2) |Web Scraping in Python Using Scrapy |
 |Creating Interactive Tableau Dashboards |Joining Data in PostgreSQL |SQL for Data Science - PostgreSQL, MySQL, SQL Server |      |
 |Data Visualization Workshop - Tableau |LTE-U and LAA |Shell for Data Science |   |
+
 
 
 
