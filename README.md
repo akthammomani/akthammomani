@@ -63,7 +63,20 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-## 🎯 Trainings and Certifications:
+## 📈 Repostories & Projects Summary:
+
+|Repository # | Repository Name  | About  |
+|:---: | :---: |:---: | 
+| 1 | Predicting-House-Prices-CA-Bay-Area | Predicting House Prices in California - Bay Area |
+| 2 | Big-Mountain-Resort-Pricing-Model | To come up with a pricing model for ski resort tickets |
+| 3 | Google-vs-Apple-Store |  Google Play apps have higher reviews on average than Apple Store apps (or vice versa)?|
+| 4 |GreatSchools-API-XML-Pandas | Data was requested from GreatSchools.Org REST API to complete "Predicting House Prices in California" Project |
+| 5 | London-boroughs-Housing-Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? |
+| 6 | Python-Data-Science-Projects | Many projects applying Data Science using Python |
+| 7 | SQL-Data-Science-Projects | wide variety of methods for transforming, manipulating, and calculating data to answer a wide variety of questions in SQL |
+
+
+## 🎯 Trainings & Certifications:
 
 
 | Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |  Course # | Course Name  |
