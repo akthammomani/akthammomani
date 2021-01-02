@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ## 📈 Repostories & Projects Summary:
 
-| **Repository Name**  | **Summary**  |
+| Repository Name  | Summary |
 | :--- |:--- | 
 | Predicting-House-Prices-CA-Bay-Area | Predicting House Prices in California - Bay Area |
 | Big-Mountain-Resort-Pricing-Model | To come up with a pricing model for ski resort tickets |
