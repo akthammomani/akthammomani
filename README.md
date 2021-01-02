@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ## 🎯 Trainings & Certifications:
 
 
-| No. | **Course Name**  |  No. | **Course Name**   |  No. | **Course Name**   |  No.| **Course Name**   |
+| No. | Course Name  |  No. | Course Name   |  No. | Course Name   |  No.| Course Name |
 |:---: |:--- |:---: |:--- |:---: |:---|:---: |:--- |
 | 1 | Cleaning Data in Python |11 | Data Visualization: Storytelling |21 | Learning LabVIEW |31 | Strategic Thinking |
 | 2 | Data Manipulation using NumPy |12 | ENM Python Scripting Virtualization |22 | Looker First Look |32 | Tableau Analyst - Certified |
