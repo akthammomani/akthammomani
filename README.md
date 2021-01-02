@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 |:---: |:--- |:---: |:--- |:---: |:---|:---: |:--- |
 | 1 | Cleaning Data in Python |11 | Data Visualization: Storytelling |21 | Learning LabVIEW |31 | Strategic Thinking |
 | 2 | Data Manipulation using NumPy |12 | ENM Python Scripting Virtualization |22 | Looker First Look |32 | Tableau Analyst - Certified |
-| 3 | Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |13 | Git for Data Science |23 | Manipulating DataFrames with Pandas |33 | Tableau Data Scientist - Certified |
-| 4 | Data Types for Data Science in Python |14 | Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |24 | Merging DataFrames with Pandas |34 | Tableau Desktop I: Fundamentals |
+| 3 | Data Types for Data Science in Python |13 | Git for Data Science |23 | Manipulating DataFrames with Pandas |33 | Tableau Data Scientist - Certified |
+| 4 | Data Manipulation using Pandas & Data Visualization using Matplotlib & Seaborn |14 | Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |24 | Merging DataFrames with Pandas |34 | Tableau Desktop I: Fundamentals |
 | 5 | Exploratory Data Analysis in Python | 15 | Intermediate Importing Data in Python |25 | Neural Networks and Deep Learning |35 | Tableau Desktop II: Intermediate |
 | 6 | Intermediate SQL |16 | Intermediate Python for Data Science |26 | Pandas Foundations |36 | Tableau Desktop III: Advanced |
 | 7 | Statistical Thinking in Python (Part 1) |17 | Intro to Hadoop and MapReduce |27 | Python Data Science Toolbox (Part 1) | 37 | Tableau and R for Analytics Projects |
