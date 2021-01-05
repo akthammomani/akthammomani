@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 |16| Neural Networks and Deep Learning |36| Intermediate Python for Data Science |
 |17| Data Visualization Workshop - Tableau |37| Intermediate Importing Data in Python |
 |18| SQL for Data Science - PostgreSQL, MySQL, SQL Server |38| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn |
-|19| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |39| |
+|19| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |39| Python Statistics Essential Training |
 
 
 
