@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 |9|Exploratory Data Analysis in Python|29|Tableau Desktop I: Fundamentals|
 |10|Neural Networks and Deep Learning|30|Merging DataFrames with Pandas|
 |11|ENM Python Scripting Virtualization|31|Python Statistics Essential Training|
-|12|Python Data Science Toolbox (Part 1)|32|Advanced LPWA for IoT Virtulization|
-|13|Python Data Science Toolbox (Part 2)|33|Tableau and R for Analytics Projects|
-|14|Data Visualization Workshop - Tableau|34|Data Types for Data Science in Python|
-|15|Manipulating DataFrames with Pandas|35|Statistical Thinking in Python (Part 1)|
-|16|Creating Interactive Tableau Dashboards|36|Intermediate Python for Data Science|
+|12|Python Data Science Toolbox (Part 1)|32|Tableau and R for Analytics Projects|
+|13|Python Data Science Toolbox (Part 2) |33|Advanced LPWA for IoT Virtulization|
+|14|Data Visualization Workshop - Tableau|34|Statistical Thinking in Python (Part 1)|
+|15|Manipulating DataFrames with Pandas|35|Intermediate Python for Data Science|
+|16|Creating Interactive Tableau Dashboards|36|Data Types for Data Science in Python|
 |17|Introduction to Data Visualization in Python|37|Web Scraping in Python Using Scrapy|
 |18|Introduction to Data Visualization in Python|38|Intermediate Importing Data in Python|
 |19|SQL for Data Science - PostgreSQL, MySQL, SQL Server|39|Introduction to Importing Data in Python|
