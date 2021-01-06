@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 
 | No. | Course_Name  |  No. | Course_Name  | 
 |:---: |:--- |:---: |:--- |
-|No.|Course_Name|No.|Course_Name|
 |1|Intermediate SQL|21|Strategic Thinking|
 |2|Looker First Look|22|Git for Data Science|
 |3|Learning LabVIEW|23|Shell for Data Science|
