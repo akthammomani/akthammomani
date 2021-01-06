@@ -96,13 +96,13 @@ Here are some ideas to get you started:
 |10| Python Data Science Toolbox (Part 1) |29| Python Data Science Toolbox (Part 2) |
 |11| Manipulating DataFrames with Pandas |30| Web Scraping in Python Using Scrapy |
 |12| Creating Interactive Tableau Dashboards |31| Introduction to Importing Data in Python |
-|13| Introduction to Data Visualization in Python |28| Shell for Data Science |32| Joining Data in PostgreSQL |
-|14| Exploratory Data Analysis in Python |34| Merging DataFrames with Pandas |
-|15| Tableau Desktop III: Advanced |35| Tableau Desktop I: Fundamentals |
-|16| Neural Networks and Deep Learning |36| Intermediate Python for Data Science |
-|17| Data Visualization Workshop - Tableau |37| Intermediate Importing Data in Python |
-|18| SQL for Data Science - PostgreSQL, MySQL, SQL Server |38| Python Statistics Essential Training |
-|19| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |39| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn |
+|13| Introduction to Data Visualization in Python |32| Joining Data in PostgreSQL |
+|14| Exploratory Data Analysis in Python |33| Merging DataFrames with Pandas |
+|15| Tableau Desktop III: Advanced |34| Tableau Desktop I: Fundamentals |
+|16| Neural Networks and Deep Learning |35| Intermediate Python for Data Science |
+|17| Data Visualization Workshop - Tableau |36| Intermediate Importing Data in Python |
+|18| SQL for Data Science - PostgreSQL, MySQL, SQL Server |37| Python Statistics Essential Training |
+|19| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |38| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn |
 
 
 
