@@ -101,10 +101,11 @@ Here are some ideas to get you started:
 |14|Data Visualization Workshop - Tableau|34|Statistical Thinking in Python (Part 1)|
 |15|Manipulating DataFrames with Pandas|35|Intermediate Python for Data Science|
 |16|Creating Interactive Tableau Dashboards|36|Data Types for Data Science in Python|
-|17|Introduction to Data Visualization in Python|37|Web Scraping in Python Using Scrapy|
+|17|Introduction to Importing Data in Python|37|Web Scraping in Python Using Scrapy|
 |18|Introduction to Data Visualization in Python|38|Intermediate Importing Data in Python|
-|19|SQL for Data Science - PostgreSQL, MySQL, SQL Server|39|Introduction to Importing Data in Python|
-|20|Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|40|Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn|
+|19|SQL for Data Science - PostgreSQL, MySQL, SQL Server|39|Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn|
+|20|Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|40||
+
 
 
 
