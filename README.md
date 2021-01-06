@@ -84,49 +84,28 @@ Here are some ideas to get you started:
 
 | No. | Course_Name  |  No. | Course_Name  | 
 |:---: |:--- |:---: |:--- |
-|1| Intermediate SQL |20| Git for Data Science |
-|2| Looker First Look |21| Strategic Thinking |
-|3| Learning LabVIEW |22| Cleaning Data in Python |
-|4| Pandas Foundations |23| Tableau Analyst - Certified |
-|5| Data Manipulation using NumPy |24| Tableau Data Scientist - Certified |
-|6| Intro to Hadoop and MapReduce |25| Data Visualization: Storytelling |
-|7| Tableau Desktop II: Intermediate |26| Advanced LPWA for IoT Virtulization |
-|8| ENM Python Scripting Virtualization |27| Statistical Thinking in Python (Part 1) |
-|9| Data Types for Data Science in Python  |28| Tableau and R for Analytics Projects |
-|10| Python Data Science Toolbox (Part 1) |29| Python Data Science Toolbox (Part 2) |
-|11| Manipulating DataFrames with Pandas |30| Web Scraping in Python Using Scrapy |
-|12| Creating Interactive Tableau Dashboards |31| Introduction to Importing Data in Python |
-|13| Introduction to Data Visualization in Python |32| Joining Data in PostgreSQL |
-|14| Exploratory Data Analysis in Python |33| Merging DataFrames with Pandas |
-|15| Tableau Desktop III: Advanced |34| Tableau Desktop I: Fundamentals |
-|16| Neural Networks and Deep Learning |35| Intermediate Python for Data Science |
-|17| Data Visualization Workshop - Tableau |36| Intermediate Importing Data in Python |
-|18| SQL for Data Science - PostgreSQL, MySQL, SQL Server |37| Python Statistics Essential Training |
-|19| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |38| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn |
+|No.|Course_Name|No.|Course_Name|
+|1|Intermediate SQL|21|Strategic Thinking|
+|2|Looker First Look|22|Git for Data Science|
+|3|Learning LabVIEW|23|Shell for Data Science|
+|4|Pandas Foundations|24|Cleaning Data in Python|
+|5|Tableau Desktop III: Advanced|25|Tableau Analyst - Certified|
+|6|Tableau Desktop II: Intermediate|26|Joining Data in PostgreSQL|
+|7|Data Manipulation using NumPy|27|Data Visualization: Storytelling|
+|8|Intro to Hadoop and MapReduce|28|Tableau Data Scientist - Certified|
+|9|Exploratory Data Analysis in Python|29|Tableau Desktop I: Fundamentals|
+|10|Neural Networks and Deep Learning|30|Merging DataFrames with Pandas|
+|11|ENM Python Scripting Virtualization|31|Python Statistics Essential Training|
+|12|Python Data Science Toolbox (Part 1)|32|Advanced LPWA for IoT Virtulization|
+|13|Data Types for Data Science in Python|33|Tableau and R for Analytics Projects|
+|14|Data Visualization Workshop - Tableau|34|Statistical Thinking in Python (Part 1)|
+|15|Manipulating DataFrames with Pandas|35|Python Data Science Toolbox (Part 2)|
+|16|Creating Interactive Tableau Dashboards|36|Intermediate Python for Data Science|
+|17|Introduction to Data Visualization in Python|37|Web Scraping in Python Using Scrapy|
+|18|Introduction to Data Visualization in Python|38|Intermediate Importing Data in Python|
+|19|SQL for Data Science - PostgreSQL, MySQL, SQL Server|39|Introduction to Importing Data in Python|
+|20|Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|40|Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn|
 
-
-| No. | Course_Name  |  No. | Course_Name  | 
-|:---: |:--- |:---: |:--- |
-|1| Intermediate SQL |21| Git for Data Science |
-|2| Looker First Look |22| Strategic Thinking |
-|3| Learning LabVIEW |23| Cleaning Data in Python |
-|4| Pandas Foundations |24| Tableau Analyst - Certified |
-|5| Data Manipulation using NumPy |25| Tableau Data Scientist - Certified |
-|6| Intro to Hadoop and MapReduce |26| Data Visualization: Storytelling |
-|7| Tableau Desktop II: Intermediate |27| Advanced LPWA for IoT Virtulization |
-|8| ENM Python Scripting Virtualization |28| Statistical Thinking in Python (Part 1) |
-|9| Data Types for Data Science in Python  |29| Tableau and R for Analytics Projects |
-|10| Python Data Science Toolbox (Part 1) |30| Python Data Science Toolbox (Part 2) |
-|11| Manipulating DataFrames with Pandas |31| Web Scraping in Python Using Scrapy |
-|12| Creating Interactive Tableau Dashboards |32| Introduction to Importing Data in Python |
-|13| Introduction to Data Visualization in Python |33| Joining Data in PostgreSQL |
-|14| Exploratory Data Analysis in Python |34| Merging DataFrames with Pandas |
-|15| Tableau Desktop III: Advanced |35| Tableau Desktop I: Fundamentals |
-|16| Neural Networks and Deep Learning |36| Intermediate Python for Data Science |
-|17| Data Visualization Workshop - Tableau |37| Intermediate Importing Data in Python |
-|18| SQL for Data Science - PostgreSQL, MySQL, SQL Server |38| Python Statistics Essential Training |
-|19| Introduction to Data Visualization in Python|39| Shell for Data Science  |
-|20| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization |40| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn |
 
 
 
