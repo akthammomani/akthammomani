@@ -33,9 +33,9 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
 My past roles have been focused as a SME in the cellular engineering space building roadmaps, performance metrics, and emerging technologies. Global work history includes major cellular assignments with AT&T, T-Mobile, Orange Armenia, Nokia-South Africa, Ericsson, and other world-class cellular companies. Experienced in 3GPP Releases and Their Evolution and Impact on Radio Networks and Devices.
 
 
-📫 I’d love to chat further, please feel free to reach me on: <a href="https://linkedin.com/in/akthammomani">@Akthammomani Linkedin</a> 
-   #### 📬 aktham.momani81@gmail.com
-   #### ☎  +1(925)487-2113
+I’d love to chat further, please feel free to reach me on: <a href="https://linkedin.com/in/akthammomani">@Akthammomani Linkedin</a> 
+ #### 📬 aktham.momani81@gmail.com
+ #### ☎  +1(925)487-2113
 
 <!--
 **akthammomani/akthammomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
