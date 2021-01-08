@@ -98,12 +98,12 @@ Here are some ideas to get you started:
 |10|Neural Networks and Deep Learning|30|Merging DataFrames with Pandas|
 |11|ENM Python Scripting Virtualization|31|Python Statistics Essential Training|
 |12|Python Data Science Toolbox - Part I|32|Statistical Thinking in Python- Part I|
-|13|Python Data Science Toolbox - Part II|33|Tableau and R for Analytics Projects|
-|14|Data Visualization Workshop - Tableau|34|Advanced LPWA for IoT Virtulization|
-|15|Manipulating DataFrames with Pandas|35|Intermediate Python for Data Science|
-|16|Creating Interactive Tableau Dashboards|36|Data Types for Data Science in Python|
-|17|Introduction to Importing Data in Python|37|Web Scraping in Python Using Scrapy|
-|18|Introduction to Data Visualization in Python|38|Statistical Thinking in Python - Part II|
+|13|Python Data Science Toolbox - Part II|33|Statistical Thinking in Python - Part II|
+|14|Data Visualization Workshop - Tableau|34|Tableau and R for Analytics Projects|
+|15|Manipulating DataFrames with Pandas|35|Advanced LPWA for IoT Virtulization|
+|16|Creating Interactive Tableau Dashboards|36|Intermediate Python for Data Science|
+|17|Introduction to Importing Data in Python|37|Data Types for Data Science in Python|
+|18|Introduction to Data Visualization in Python|38|Web Scraping in Python Using Scrapy|
 |19|SQL for Data Science - PostgreSQL, MySQL, SQL Server|39|Intermediate Importing Data in Python|
 |20|Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|40| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn|
 
