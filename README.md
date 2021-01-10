@@ -11,8 +11,9 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
   * Advanced time series analysis.
   * Deep learning, including: Deep learning Implementation and Neural network architectures.
   * Production machine learning methods: Deploying models.
-  * Natural Language Processing (NLP)
+  * Natural Language Processing (NLP).
   * Image Processing.
+  * A/B Testing.
   * Data Science at scale including: Hadoop, Spark, PySpark and Neural networks.
   * Advanced data visualization: Matplotlib, seaborn, Tableau, Plotly and Bokeh.
   * Advanced SQL: MySQL, Microsoft SQL Server, NoSQL, and PostgreSQL.
