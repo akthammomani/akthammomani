@@ -76,7 +76,8 @@ Here are some ideas to get you started:
 | London-boroughs-Housing-Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? |
 | Python-Data-Science-Projects | Many projects applying Data Science using Python |
 | SQL-Data-Science-Projects | Many projects applying Data Science using SQL |
-
+| A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention |
+| Analyzing TV Super Bowl Data | To find out how some of the elements of this show interact with each other |
 
 
 
