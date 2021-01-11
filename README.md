@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p>&nbsp;</p>
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
