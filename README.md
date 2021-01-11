@@ -40,8 +40,6 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
  #### 📬 aktham.momani81@gmail.com
  #### ☎  +1(925)487-2113
 
-<br />
-
 ## 🔨 <ins> Technologies & Tools<ins> 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -53,7 +51,6 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-<br />
 
 ## 📈 <ins> Repositories & Projects Summary:<ins> 
 
@@ -68,7 +65,6 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | SQL-Data-Science-Projects | Many projects applying Data Science using SQL |
 | A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention |
 | Analyzing TV Super Bowl Data | To find out how some of the elements of this show interact with each other |
-<br />
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
