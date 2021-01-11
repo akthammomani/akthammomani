@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
-<br />
 
 ## 🔨 <ins> Technologies & Tools<ins> 
 
@@ -69,7 +68,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-<br />
 <br />
 
 ## 📈 <ins> Repositories & Projects Summary:<ins> 
@@ -86,7 +84,6 @@ Here are some ideas to get you started:
 | A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention |
 | Analyzing TV Super Bowl Data | To find out how some of the elements of this show interact with each other |
 
-<br />
 <br />
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
