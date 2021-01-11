@@ -37,8 +37,8 @@ My past roles have been focused as a SME in the cellular engineering space build
 
 
 I’d love to chat further, please feel free to reach me on: <a href="https://linkedin.com/in/akthammomani">@Akthammomani Linkedin</a> 
- #### 📬 aktham.momani81@gmail.com
- #### ☎  +1(925)487-2113
+📬 aktham.momani81@gmail.com
+☎  +1(925)487-2113
 
 ## 🔨 <ins> Technologies & Tools<ins> 
 
