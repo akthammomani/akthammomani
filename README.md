@@ -82,9 +82,8 @@ Here are some ideas to get you started:
 | A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention |
 | Analyzing TV Super Bowl Data | To find out how some of the elements of this show interact with each other |
 
-
-
-<p>&nbsp;</p>
+<br />
+<br />
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
