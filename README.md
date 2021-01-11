@@ -7,7 +7,7 @@
 
 Aspiring Data Scientist with over 15 years of experience, regularly using SQL and statistical modeling for data analysis purposes. Currently obtaining a Data Science Certificate in Advanced Machine Learning to enhance my skills further in Python, Data Cleaning, Data Wrangling, Exploratory Data Analysis, Pre-Processing & Training, Feature Engineering, Machine Learning Algorithms, Deep Learning and advanced statistical modeling techniques.
 
-👇 <li><code>𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦</code></li> 👇
+<li><code>𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦</code></li>
   * Advanced time series analysis.
   * Deep learning, including: Deep learning Implementation and Neural network architectures.
   * Production machine learning methods: Deploying models.
@@ -19,7 +19,7 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
   * Advanced SQL: MySQL, Microsoft SQL Server, NoSQL, and PostgreSQL.
   * Data Cleaning, Data Wrangling and Exploratory Data Analysis.
 
-👇 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 👇
+<li><code>𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦</code></li>
   * Constant Learner.
   * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL.
   * Primary Language: Python (NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, seaborn, Plotly, Scrapy, BeautifulSoup, requests).
