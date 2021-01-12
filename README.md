@@ -62,7 +62,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 |GreatSchools API XML to Pandas | To request a data from GreatSchools.Org REST API to complete "Predicting House Prices in California" Project ([Location](https://github.com/akthammomani/GreatSchools-API-XML-Pandas))|
 | London boroughs Housing Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? ([Location](https://github.com/akthammomani/London-boroughs-Housing-Prices))|
 | Python Data Science Projects | Many projects applying Data Science using Python ([Location](https://github.com/akthammomani/Python-Data-Science-Projects)) |
-| SQL-Data-Science-Projects | Many projects applying Data Science using SQL |
+| SQL Data Science Projects |Many projects applying Data Science using SQL ([Location](https://github.com/akthammomani/SQL-Data-Science-Projects))|
 | A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention |
 | Analyzing TV Super Bowl Data | To find out how some of the elements of this show interact with each other |
 | Frequentist-Inference | Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses|
