@@ -57,8 +57,8 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | Repository Name  | Summary |
 | :--- |:--- | 
 | Predicting House Prices CA Bay Area |Predicting House Prices in California - Bay Area ([Location](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))|
-| Big-Mountain-Resort-Pricing-Model | To come up with a pricing model for ski resort tickets |
-| Google-vs-Apple-Store |  Google Play apps have higher reviews on average than Apple Store apps (or vice versa)?|
+| Big Mountain Resort Pricing Model | To come up with a pricing model for ski resort tickets ([Location](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model)) |
+| Google vs Apple Store |  Google Play apps have higher reviews on average than Apple Store apps (or vice versa)?|
 |GreatSchools-API-XML-Pandas | Data was requested from GreatSchools.Org REST API to complete "Predicting House Prices in California" Project |
 | London-boroughs-Housing-Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? |
 | Python-Data-Science-Projects | Many projects applying Data Science using Python |
