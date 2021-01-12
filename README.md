@@ -65,6 +65,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | SQL-Data-Science-Projects | Many projects applying Data Science using SQL |
 | A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention |
 | Analyzing TV Super Bowl Data | To find out how some of the elements of this show interact with each other |
+| Frequentist-Inference | Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses|
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
