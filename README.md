@@ -54,7 +54,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 ## 📈 <ins> Repositories & Projects Summary:<ins> 
 
-| <code>Repository Name</code>  | Summary |
+| <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- | 
 | Predicting House Prices CA Bay Area |Predicting House Prices in California - Bay Area ([Location](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))|
 | Big Mountain Resort Pricing Model | To come up with a pricing model for ski resort tickets ([Location](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model)) |
@@ -69,7 +69,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
-| No. | Course_Name  |  No. | Course_Name  | 
+| <code>No.</code>| <code>Course_Name</code>  |  <code>No.</code> | <code>Course_Name</code>  | 
 |:---: |:--- |:---: |:--- |
 |1|Intermediate SQL|21|Strategic Thinking|
 |2|Looker First Look|22|Git for Data Science|
