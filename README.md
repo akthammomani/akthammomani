@@ -66,6 +66,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention ([Location](https://github.com/akthammomani/AB-Testing-cookie-CATS)) |
 | Analyzing TV Super Bowl Data | To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other) ([Location](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)) |
 | Frequentist-Inference-Hypothesis-Testing | Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses ([Location](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing))|
+| Regression Analysis Red Wine Quality| To use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible. ([Location](https://github.com/akthammomani/Regression-Analysis-Red-Wine-Quality))|
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
