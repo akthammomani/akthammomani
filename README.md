@@ -56,16 +56,16 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- | 
-| Predicting House Prices CA Bay Area |Predicting House Prices in California - Bay Area ([Location](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))|
-| Big Mountain Resort Pricing Model | To come up with a pricing model for ski resort tickets ([Location](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model)) |
-| Google vs Apple Store (Hypothesis_Testing)|  To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)? ([Location](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing))|
-|GreatSchools API XML to Pandas | To request a data from GreatSchools.Org REST API to complete "Predicting House Prices in California" Project ([Location](https://github.com/akthammomani/GreatSchools-API-XML-Pandas))|
-| London boroughs Housing Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? ([Location](https://github.com/akthammomani/London-boroughs-Housing-Prices))|
-| Python Data Science Projects | Many projects applying Data Science using Python ([Location](https://github.com/akthammomani/Python-Data-Science-Projects)) |
-| SQL Data Science Projects |Many projects applying Data Science using SQL ([Location](https://github.com/akthammomani/SQL-Data-Science-Projects))|
-| A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention ([Location](https://github.com/akthammomani/AB-Testing-cookie-CATS)) |
-| Analyzing TV Super Bowl Data | To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other) ([Location](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)) |
-| Frequentist-Inference-Hypothesis-Testing | Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses ([Location](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing))|
+| <code>Predicting House Prices CA Bay Area</code> |<code>Predicting House Prices in California - Bay Area ([Location](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))</code>|
+| <code>Big Mountain Resort Pricing Model</code> | <code>To come up with a pricing model for ski resort tickets ([Location](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model))</code> |
+| <code>Google vs Apple Store (Hypothesis_Testing)</code>|  <code>To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)? ([Location](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing))</code>|
+|<code>GreatSchools API XML to Pandas</code> | <code>To request a data from GreatSchools.Org REST API to complete "Predicting House Prices in California" Project ([Location](https://github.com/akthammomani/GreatSchools-API-XML-Pandas))</code>|
+| <code>London boroughs Housing Prices</code> | <code>Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? ([Location](https://github.com/akthammomani/London-boroughs-Housing-Prices))</code>|
+| <code>Python Data Science Projects</code> | <code>Many projects applying Data Science using Python ([Location](https://github.com/akthammomani/Python-Data-Science-Projects))</code> |
+| <code>SQL Data Science Projects</code> |<code>Many projects applying Data Science using SQL ([Location](https://github.com/akthammomani/SQL-Data-Science-Projects))</code>|
+| <code>A/B Testing cookie CATS Game</code> | <code>To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention ([Location](https://github.com/akthammomani/AB-Testing-cookie-CATS)) </code>|
+| <code>Analyzing TV Super Bowl Data</code> | <code>To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other) ([Location](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)) </code>|
+| <code>Frequentist-Inference-Hypothesis-Testing</code> | <code>Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses ([Location](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing))</code>|
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
