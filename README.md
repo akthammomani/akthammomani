@@ -57,18 +57,18 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- | 
-| Capstone Project Two: Predicting House Prices CA Bay Area |([Predicting House Prices in California - Bay Area](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))|
-| Capstone Project one: Big Mountain Resort Tickets Model | To come up with a pricing model for ski resort tickets ([Location](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model)) |
-| Google vs Apple Store (Hypothesis_Testing)|  To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)? ([Location](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing))|
-|API: XML & JSON to Pandas| Using Python requests package to send HTTP requests to GreatSchools API (XML to Pandas) and Quandl API (JSON to Pandas) ([Location](https://github.com/akthammomani/API-XML-JSON-TO-Pandas))|
-| London boroughs Housing Prices | Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? ([Location](https://github.com/akthammomani/London-boroughs-Housing-Prices))|
-| Python Data Science Projects | Many projects applying Data Science using Python ([Location](https://github.com/akthammomani/Python-Data-Science-Projects)) |
-| SQL Data Science Projects |Many projects applying Data Science using SQL ([Location](https://github.com/akthammomani/SQL-Data-Science-Projects))|
-| A/B Testing cookie CATS Game | To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention ([Location](https://github.com/akthammomani/AB-Testing-cookie-CATS)) |
-| Analyzing TV Super Bowl Data | To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other) ([Location](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)) |
-| Frequentist Inference (HypothesisTesting) | Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses ([Location](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing))|
-| Regression Analysis Red Wine Quality| To use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible. ([Location](https://github.com/akthammomani/Regression-Analysis-Red-Wine-Quality))|
-| Regression Disney Movies and Box Office Success| To perform hypothesis testing to see what aspects of a movie contribute to its success. ([Location](https://github.com/akthammomani/Disney-Movies-and-Box-Office-Success))|
+| Capstone Project Two: Predicting House Prices CA Bay Area |[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
+| Capstone Project one: Big Mountain Resort Tickets Model |  [To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
+| Google vs Apple Store (Hypothesis_Testing)|[To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)?](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing)|
+|API: XML & JSON to Pandas|[Using Python requests package to send HTTP requests to GreatSchools API (XML to Pandas) and Quandl API (JSON to Pandas).](https://github.com/akthammomani/API-XML-JSON-TO-Pandas)|
+| London boroughs Housing Prices |[Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades?](https://github.com/akthammomani/London-boroughs-Housing-Prices)|
+| Python Data Science Projects |[Many projects applying Data Science using Python.](https://github.com/akthammomani/Python-Data-Science-Projects) |
+| SQL Data Science Projects | [Many projects applying Data Science using SQL.](https://github.com/akthammomani/SQL-Data-Science-Projects)|
+| A/B Testing cookie CATS Game |[To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention.](https://github.com/akthammomani/AB-Testing-cookie-CATS)|
+| Analyzing TV Super Bowl Data |[To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other).](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)|
+| Frequentist Inference (HypothesisTesting) |[Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses.](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing)|
+| Regression Analysis Red Wine Quality|[To use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible.](https://github.com/akthammomani/Regression-Analysis-Red-Wine-Quality)|
+| Regression Disney Movies and Box Office Success|[To perform hypothesis testing to see what aspects of a movie contribute to its success.](https://github.com/akthammomani/Disney-Movies-and-Box-Office-Success)|
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
