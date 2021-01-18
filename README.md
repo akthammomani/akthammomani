@@ -57,7 +57,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- | 
-| Capstone Project Two: Predicting House Prices CA Bay Area |Predicting House Prices in California - Bay Area ([Location](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))|
+| Capstone Project Two: Predicting House Prices CA Bay Area |([Predicting House Prices in California - Bay Area](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area))|
 | Capstone Project one: Big Mountain Resort Tickets Model | To come up with a pricing model for ski resort tickets ([Location](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model)) |
 | Google vs Apple Store (Hypothesis_Testing)|  To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)? ([Location](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing))|
 |API: XML & JSON to Pandas| Using Python requests package to send HTTP requests to GreatSchools API (XML to Pandas) and Quandl API (JSON to Pandas) ([Location](https://github.com/akthammomani/API-XML-JSON-TO-Pandas))|
