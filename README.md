@@ -9,17 +9,18 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
 
 👇𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦👇
 
+   * Advanced Statistics: probability distributions, estimation techniques, central limit theorem, confidence intervals, hypothesis testing (z-statistic, t-statistic, p-value, etc) and A/B Testing
    * Advanced time series analysis.
    * Deep learning, including: Deep learning Implementation and Neural network architectures.
-   * Production machine learning methods: Deploying models.
+   * Production machine learning methods: Deploying models, Data preparation (outlier treatment, missing value imputations etc.), Feature engineering (polynomial, log and other functional transformations), Feature Engineering, and Model interpretation through Decision Trees, Linear Models
    * Natural Language Processing (NLP).
    * Image Processing.
    * A/B Testing.
    * Data Science at scale including: Hadoop, Spark, PySpark and Neural networks.
    * Advanced data visualization: Matplotlib, seaborn, Tableau, Plotly and Bokeh.
    * Advanced SQL: MySQL, Microsoft SQL Server, NoSQL, and PostgreSQL.
-   * Data Cleaning, Data Wrangling and Exploratory Data Analysis.
-
+   * Data Wrangling and Exploratory Data Analysis.
+  
 👇𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦👇
 
   * Constant Learner.
