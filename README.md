@@ -68,6 +68,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | Analyzing TV Super Bowl Data | To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other) ([Location](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)) |
 | Frequentist Inference (HypothesisTesting) | Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses ([Location](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing))|
 | Regression Analysis Red Wine Quality| To use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible. ([Location](https://github.com/akthammomani/Regression-Analysis-Red-Wine-Quality))|
+| Regression Disney Movies and Box Office Success| To perform hypothesis testing to see what aspects of a movie contribute to its success. ([Location](https://github.com/akthammomani/Disney-Movies-and-Box-Office-Success))|
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
