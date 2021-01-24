@@ -93,8 +93,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | <code>16</code>| Creating Interactive Tableau Dashboards| <code>37</code>| Supervised Learning with scikit-learn| 
 | <code>17</code>| Introduction to Importing Data in Python| <code>38</code>| Web Scraping in Python Using Scrapy| 
 | <code>18</code>| Introduction to Data Visualization in Python| <code>39</code>| Data Types for Data Science in Python| 
-"| <code>19</code>| Machine Learning with Tree-Based Models in Python
-| <code>40</code>| Intermediate Python for Data Science| "
+| <code>19</code>| Machine Learning with Tree-Based Models in Python| <code>40</code>| Intermediate Python for Data Science| 
 | <code>20</code>| SQL for Data Science - PostgreSQL, MySQL, SQL Server| <code>41</code>| Intermediate Importing Data in Python| 
 | <code>21</code>| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| <code>42</code>| Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn| 
 
