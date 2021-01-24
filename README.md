@@ -69,7 +69,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | Frequentist Inference (HypothesisTesting) |[Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses.](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing)|
 | Regression Analysis Red Wine Quality|[To use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible.](https://github.com/akthammomani/Regression-Analysis-Red-Wine-Quality)|
 | Regression Disney Movies and Box Office Success|[To perform hypothesis testing to see what aspects of a movie contribute to its success.](https://github.com/akthammomani/Disney-Movies-and-Box-Office-Success)|
-| 𝗚𝗲𝗻𝗱𝗲𝗿 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻 |[Predict the person gender based on their weight and height using Logistic regression model.](https://github.com/akthammomani/Logistic_Regression_Gender_Classification)|
+|Gender Classification Using Logistic Regression  |[Predict the person gender based on their weight and height using Logistic regression model.](https://github.com/akthammomani/Logistic_Regression_Gender_Classification)|
 
 ## 🎯 <ins> Trainings & Certifications:<ins> 
 
