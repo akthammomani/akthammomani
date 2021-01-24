@@ -75,7 +75,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 |  <code>No.</code>|  <code>Course_Name</code>  |   <code>No.</code> |  <code>Course_Name</code>  | 
 | :---: | :--- | :---: | :--- | 
-| <code>1</code>| Intermediate SQL| <code>22</code>| Strategic Thinking| 
+| <code>1</code>| [Intermediate SQL ](https://www.datacamp.com/statement-of-accomplishment/course/c48136527311f300d93331262cbaa967f126ddbd)| <code>22</code>| Strategic Thinking| 
 | <code>2</code>| Looker First Look| <code>23</code>| Git for Data Science| 
 | <code>3</code>| Learning LabVIEW| <code>24</code>| Shell for Data Science| 
 | <code>4</code>| Pandas Foundations| <code>25</code>| Cleaning Data in Python| 
