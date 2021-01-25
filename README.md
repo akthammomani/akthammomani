@@ -75,7 +75,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 |  <code>No.</code>|  <code>Course_Name</code>  |   <code>No.</code> |  <code>Course_Name</code>  | 
 | :---: | :--- | :---: | :--- | 
-| <code>1</code>| [Intermediate SQL ](https://www.datacamp.com/statement-of-accomplishment/course/c48136527311f300d93331262cbaa967f126ddbd)| <code>22</code>| Strategic Thinking| 
+| <code>1</code>| [Intermediate SQL ](https://www.datacamp.com/statement-of-accomplishment/course/c48136527311f300d93331262cbaa967f126ddbd)| <code>22</code>| [AWX SageMaker ](http://www.linkedin.com/learning/learning-amazon-sagemaker?trk=flagship-lil_details_certification)| 
 | <code>2</code>| [Looker First Look](http://www.linkedin.com/learning/looker-first-look?trk=flagship-lil_details_certification)| <code>23</code>| [Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/1be671cbab07e04516ecdfa687cf641f92c3d4d6)| 
 | <code>3</code>| [Learning LabVIEW](http://www.linkedin.com/learning/learning-labview?trk=flagship-lil_details_certification)| <code>24</code>| [Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/9e32b26c94a25697b70ec85bef00358d019a8494)| 
 | <code>4</code>| [Pandas Foundations](https://www.datacamp.com/statement-of-accomplishment/course/6dbf7dc72c9ae075edd33bc19b0ff76b150b1f84)| <code>25</code>| [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ec82c1f4500514e25c7285daeadcd9c948e1d4ee)| 
