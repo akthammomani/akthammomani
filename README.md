@@ -53,6 +53,8 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+![contributions](https://user-images.githubusercontent.com/67468718/106380974-9c9ab580-636a-11eb-9342-50538563c20b.png)
+
 ## 📈 <ins> Repositories & Projects Summary:<ins> 
 
 | <code>Repository Name</code>  | <code>Summary</code> |
