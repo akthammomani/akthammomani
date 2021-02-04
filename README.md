@@ -59,9 +59,10 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | :--- |:--- |
 |Capstone Project Two: Predicting House Prices CA Bay Area |[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
-|Google vs Apple Store (Hypothesis_Testing)|[To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)?](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing)|
+|Predicting Credit Card Approval Using Binary Classifiers|[o build multiple binary classifiers that can predict if an individual's application for a credit card will be accepted.](https://github.com/akthammomani/Binary-Classifier-Predicting-Credit-Card-Approval)|
 |Random Forests Multi-Class Classifier - COVID-19|[Predicting the status of "COVID-19" patients using Random Forests](https://github.com/akthammomani/Random-Forests-Multi-Class-Classifier/tree/main/Random-Forests-COVID-19)|
 |Tree-Based Binary Classifier - Specialty Coffee|[To help RR Diner Coffee using data science and machine learning to systematically make decisions about which coffee farmers they should strike deals with.](https://github.com/akthammomani/Decision-Tree-Based-Binary-Classifiers/tree/main/Tree_Based_Classifier_RR_Diner_Coffee)|
+|Google vs Apple Store (Hypothesis_Testing)|[To find out whether Google Play apps have higher reviews on average than Apple Store apps (or vice versa)?](https://github.com/akthammomani/Google-vs-Apple-Store-Hypothesis_Testing)|
 |SQL Data Science Projects |[Many projects applying Data Science using SQL.](https://github.com/akthammomani/SQL-Data-Science-Projects)|
 |A/B Testing cookie CATS Game |[To analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention.](https://github.com/akthammomani/AB-Testing-cookie-CATS)|
 |Analyzing TV Super Bowl Data |[To Analyze Super Bowl Half Time Show (e.g.,  find out how some of the elements of this show interact with each other).](https://github.com/akthammomani/Analyzing-TV-Super-Bowl-Data)|
