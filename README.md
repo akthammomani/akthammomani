@@ -59,6 +59,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | :--- |:--- |
 |Capstone Project Two: Predicting House Prices CA Bay Area |[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
+|Classify Song Genres from Audio Data Using Different Binary Classifiers |[To classify songs as being either 'Hip-Hop' or 'Rock' - all without listening to a single one ourselves using multiple binary Classifiers.](https://github.com/akthammomani/Predicting-Song-Genres-Binary-Classifier) |
 |Predicting Credit Card Approval Using Binary Classifiers|[To build multiple binary classifiers that can predict if an individual's application for a credit card will be accepted.](https://github.com/akthammomani/Binary-Classifier-Predicting-Credit-Card-Approval)|
 |Random Forests Multi-Class Classifier - COVID-19|[Predicting the status of "COVID-19" patients using Random Forests](https://github.com/akthammomani/Random-Forests-Multi-Class-Classifier/tree/main/Random-Forests-COVID-19)|
 |Tree-Based Binary Classifier - Specialty Coffee|[To help RR Diner Coffee using data science and machine learning to systematically make decisions about which coffee farmers they should strike deals with.](https://github.com/akthammomani/Decision-Tree-Based-Binary-Classifiers/tree/main/Tree_Based_Classifier_RR_Diner_Coffee)|
