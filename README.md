@@ -59,6 +59,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | :--- |:--- |
 |Capstone Project Two: Predicting House Prices CA Bay Area |[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
+|Reducing Traffic Mortality in the USA using K-means Clustering Powered by Tableau |[To reduce Traffic Mortality in the USA using K-means Clustering Powered by Tableau](https://github.com/akthammomani/US-Drivers-Segmentation-Kmeans-Clustering-Tableau) |
 |Customer Segmentation Using Machine Learning K-Means Clustering Powered by Tableau |[To optimize wholesale Wine business using Clustering with K-means powered by Tableau](https://github.com/akthammomani/Customers-Segmentation-Clustering-Kmeans-Tableau) |
 |Classify Song Genres from Audio Data Using Different Binary Classifiers |[To classify songs as being either 'Hip-Hop' or 'Rock' - all without listening to a single one ourselves using multiple binary Classifiers.](https://github.com/akthammomani/Predicting-Song-Genres-Binary-Classifier) |
 |Predicting Credit Card Approval Using Binary Classifiers|[To build multiple binary classifiers that can predict if an individual's application for a credit card will be accepted.](https://github.com/akthammomani/Binary-Classifier-Predicting-Credit-Card-Approval)|
