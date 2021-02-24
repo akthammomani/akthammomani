@@ -103,7 +103,10 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 | <code>19</code>| [Introduction to Data Visualization in Python](https://www.datacamp.com/statement-of-accomplishment/course/7ea0e66778add58002e3655ef88b7c0e3e89c3c1)| <code>41</code>| [Intermediate Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/05526cfae4a68243ce1740ae213eb1fe4d4af22b)|
 | <code>20</code>| [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/b0b74a00089738504a601807098b2e2591c06f37)| <code>42</code>| [Intermediate Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/f5eb1d50aa11c4153a4664ea2aa56888e6c6feb1)|
 | <code>21</code>| [SQL for Data Science - PostgreSQL, MySQL, SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/a30eb8d7fa836e2885a75c4f69711d3506bf8898)| <code>43</code>| [Data Manipulation & Visualization using Pandas, Matplotlib & Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/629f12258aff446efc79cc2a67fe8c7c3cbf4980)|
-| <code>22</code>| [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/4FBWVDTGNLQN)| <code>44</code>||
+| <code>22</code>| [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/4FBWVDTGNLQN)| <code>44</code>|[Feature Engineering for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/37b1af52ae3f30b67baec80f1329ab3935007172)|
+
+
+
 
 
  
