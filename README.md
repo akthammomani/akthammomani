@@ -12,7 +12,7 @@ Aspiring Data Scientist with over 15 years of experience, regularly using SQL an
    * Advanced Statistics: probability distributions, estimation techniques, central limit theorem, confidence intervals, hypothesis testing (z-statistic, t-statistic, p-value, etc).
    * Advanced time series analysis.
    * Deep learning, including: Deep learning Implementation and Neural network architectures.
-   * Production machine learning methods: Deploying models, Data preparation (outlier treatment, missing value imputations etc.), Feature engineering (polynomial, log and other functional transformations), Feature Engineering, and Model interpretation through Decision Trees, Linear Models
+   * Production machine learning methods: Deploying models, Data preparation (outlier treatment, missing value imputations etc.), Feature engineering (polynomial, log and other functional transformations), and Model interpretation through Decision Trees, Linear Models
    * Natural Language Processing (NLP).
    * Image Processing.
    * A/B Testing.
