@@ -1,15 +1,7 @@
 
 [![Header](https://user-images.githubusercontent.com/67468718/121770808-6e9b5e00-cb20-11eb-80d5-041fc7ef6806.JPG "Header")](https://linkedin.com/in/akthammomani/)
 
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-
-
-
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
-
-
 
 Data Scientist / Data Analyst with a bachelor’s degree in engineering and 15 + years of professional experience - regularly analyzing data using SQL, Tableau and other BI tools to extract, manipulate, build matrices and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. Recently obtaining a certificate in Data Science - Advanced Machine Learning from Springboard to enhance my skills further in Python, Data Cleaning, Data Wrangling, EDA, ETL, Pre-Processing & Training, Feature Engineering, Machine Learning Algorithms, and Forecasting.
 
