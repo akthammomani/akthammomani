@@ -55,7 +55,7 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- |
-|Capstone Project Two: Predicting House Prices CA Bay Area |[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
+|Capstone Project Two: Build a Web App called Menara to Predict, Forecast House Prices and search GreatSchools in California - Bay Area |[Menara App](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
 |Reducing Traffic Mortality in the USA using K-means Clustering Powered by Tableau |[To reduce Traffic Mortality in the USA using K-means Clustering Powered by Tableau](https://github.com/akthammomani/US-Drivers-Segmentation-Kmeans-Clustering-Tableau) |
 |Advanced Time Series Sales Forecasting Using ARIMA & SARIMA Models|[To use the latest machine learning modelling techniques more specifically ARIMA and SARIMA models to make a probable reconstruction of the sales record of the manufacturer - predicting the future, from the perspective of the past - to contribute to a full report on US public health in relation to major cigarette companies.](https://github.com/akthammomani/Advanced-Time-Series-Sales-Forecasting-ARIMA-SARIMA) |
