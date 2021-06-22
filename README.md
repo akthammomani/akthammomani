@@ -42,7 +42,9 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 ## 🥇 <ins>Featured<ins> 
 
-  **[Menara App](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)**
+**[Menara App](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)**
+  
+https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-8834-3780f7cadf05.MP4  
   
 
 ## 🔨 <ins> Technologies & Tools<ins> 
