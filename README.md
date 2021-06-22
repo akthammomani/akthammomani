@@ -39,6 +39,12 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 * 📬 aktham.momani81@gmail.com
 * ☎  +1(925)487-2113
 
+
+## 🥇 <ins>Featured<ins> 
+
+  **[Menara App](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)**
+  
+
 ## 🔨 <ins> Technologies & Tools<ins> 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
