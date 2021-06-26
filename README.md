@@ -44,6 +44,8 @@ I’d love to chat further, please feel free to reach me on: <a href="https://li
 
 **[Menara App](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)**
   
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py/)
+  
 https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-8834-3780f7cadf05.MP4  
   
 
