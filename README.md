@@ -39,8 +39,6 @@ I’d love to chat further, please feel free to reach me on:
 
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/akthammomani/) [![MAIL Badge](https://img.shields.io/badge/-aktham.momani81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aktham.momani81@gmail.com)](mailto:aktham.momani81@gmail.com)
 
-
-* 📬 aktham.momani81@gmail.com
 * ☎  +1(925)487-2113
 
 
