@@ -36,6 +36,9 @@ Data Scientist / Data Analyst with a bachelor’s degree in engineering and 15 +
 
 
 I’d love to chat further, please feel free to reach me on: <a href="https://linkedin.com/in/akthammomani">@Akthammomani Linkedin</a> 
+
+[![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/akthammomani/)
+
 * 📬 aktham.momani81@gmail.com
 * ☎  +1(925)487-2113
 
