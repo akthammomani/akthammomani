@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- |
-|[Menara App Github Link](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area) |[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py/)|
+|[Menara App: First and Only App for House Price Estimation, Forecast and GreatSchools Search | [Build a Web App called Menara to Predict, Forecast House Prices and search GreatSchools in California - Bay Area]((https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py/)|
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
 |Reducing Traffic Mortality in the USA using K-means Clustering Powered by Tableau |[To reduce Traffic Mortality in the USA using K-means Clustering Powered by Tableau](https://github.com/akthammomani/US-Drivers-Segmentation-Kmeans-Clustering-Tableau) |
 |Advanced Time Series Sales Forecasting Using ARIMA & SARIMA Models|[To use the latest machine learning modelling techniques more specifically ARIMA and SARIMA models to make a probable reconstruction of the sales record of the manufacturer - predicting the future, from the perspective of the past - to contribute to a full report on US public health in relation to major cigarette companies.](https://github.com/akthammomani/Advanced-Time-Series-Sales-Forecasting-ARIMA-SARIMA) |
