@@ -6,30 +6,30 @@
 Data Scientist / Data Analyst with a bachelor’s degree in engineering and 15 + years of professional experience - regularly analyzing data using SQL, Tableau and other BI tools to extract, manipulate, build matrices and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. Recently obtaining a certificate in Data Science - Advanced Machine Learning from Springboard to enhance my skills further in Python, Data Cleaning, Data Wrangling, EDA, ETL, Pre-Processing & Training, Feature Engineering, Machine Learning Algorithms, and Forecasting.
 
    * Manipulate big and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
-        EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details here.
+        EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Data_Wrangling).
    * Use multiple APIs (Quandl API, GREATSchools REST API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
-        extract insights. Projects details here.
+        extract insights. Projects details [here](https://github.com/akthammomani/API-XML-JSON-TO-Pandas).
    *  Create multiple advanced time series models using ARIMA/SARIMA, Neural Prophet (Facebook) and Greykite (LinkedIn) for 
-        forecasting. Projects details here and here.
+        forecasting. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Neural-Prophet-Forecast). and [here](https://github.com/akthammomani/Advanced-Time-Series-Sales-Forecasting-ARIMA-SARIMA).
    * Perform frequentist statistical inference using python by utilizing many statistical concepts: probability distributions, 
         estimation techniques, central limit theorem, confidence intervals, hypothesis testing (z-statistic, t-statistic, p-value). Projects 
-        details here.
+        details [here](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing).
    * Perform A/B Testing to increase revenue (in-app purchase) and players’ s enjoyment/engagements. Project details here.
    * Build Movies recommendation Engines using SVD (Collaborative filtering) and Tensorflow Recommenders (TFRS- 
-        Google/YouTube Hybrid based recommender). Projects details here and here.
+        Google/YouTube Hybrid based recommender). Projects details [here](https://github.com/akthammomani/Recommender-System-Using-Python) and [here](https://github.com/akthammomani/MAXELLA-APP-Movies-Tensorflow-Recommenders-TFRS).
    * Design, built and fine tune multiple supervised Regression models: Linear, Ridge, Lasso, Gradient boosting, Decision Tree, 
-        Random Forest, XGBoost, LightGBM, ANN (Artificial Neural Network) and stacking. Project details here.
+        Random Forest, XGBoost, LightGBM, ANN (Artificial Neural Network) and stacking. Project details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Modeling).
    * Design, built and fine tune multiple supervised Classification models (Binary and multiple classifiers): Linear, logistic, Decision 
-        Tree, Random Forest, SVM and XGBoost. Project details here, here and here.
+        Tree, Random Forest, SVM and XGBoost. Project details [here](https://github.com/akthammomani/Logistic-Regression-Gender-Classification), [here](https://github.com/akthammomani/Binary-Classifier-Predicting-Credit-Card-Approval) and [here](https://github.com/akthammomani/Random-Forests-Multi-Class-Classifier/tree/main/Random-Forests-COVID-19).
    * Utilize RandomizedSearchCV to fine tune the most important hyperparameters of regression/classification models to improve 
-        R^2/RMSE/Variance Score (Regression) and accuracy/recall/precision/AUC (Classification). Projects detail here.
-   * Utilized SMOTE (Synthetic Minority Over-Sampling Technique) for data augmentation to help unbalanced dataset to provide 
-        better predictions in classification Models (reduce miss predictions/AUC). Project detail here.
-   * Create multiple clustering models using unsupervised Machine Learning: K-means powered by Tableau. Projects detail here 
-        and here.
-   * Deploy E2E Web Application using Python, AWS EC2 (Amazon) and Streamlit. Menara App.
-   * Manipulate and transform big data using MySQL, PostgreSQL, Python (sqlalchemy library) and SQLite. Project details here.
-   * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail here.
+        R^2/RMSE/Variance Score (Regression) and accuracy/recall/precision/AUC (Classification). Projects detail [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Modeling).
+   * Utilize SMOTE (Synthetic Minority Over-Sampling Technique) for data augmentation to help unbalanced dataset to provide 
+        better predictions in classification Models (reduce miss predictions/AUC). Project detail [here](https://github.com/akthammomani/Predicting-Song-Genres-Binary-Classifier).
+   * Create multiple clustering models using unsupervised Machine Learning: K-means powered by Tableau. Projects detail [here](https://github.com/akthammomani/Customers-Segmentation-Kmeans-Clustering-Tableau)
+        and [here](https://github.com/akthammomani/US-Drivers-Segmentation-KMeans-Clustering-Tableau).
+   * Deploy E2E Web Application using Python, AWS EC2 (Amazon) and Streamlit. [Menara App](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py).
+   * Manipulate and transform big data using MySQL, PostgreSQL, Python (sqlalchemy library) and SQLite. Project details [here](https://github.com/akthammomani/SQL-Data-Science-Projects).
+   * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail [here](https://github.com/akthammomani/).
 
   
 👇𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦👇
