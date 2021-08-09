@@ -7,32 +7,47 @@ Data Scientist / Data Analyst with a bachelor’s degree in engineering and 15 +
 
 👇𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦👇
 
-   * Advanced Statistics: probability distributions, estimation techniques, central limit theorem, confidence intervals, hypothesis testing (z-statistic, t-statistic, p-value, etc).
-   * Advanced time series analysis.
-   * Advanced data visualization: Matplotlib, seaborn, Tableau, Plotly and Bokeh.
-   * Advanced SQL: MySQL, Microsoft SQL Server, NoSQL (MongoDB), and PostgreSQL.
-   * ata Cleaning, Data Wrangling and Exploratory Data Analysis.
-   * Production machine learning methods: Deploying models:
-      - Supervised Learning (Regression, Classification (Binary & Multi-Class)): Linear Regression, Logistic Regression, K-
-        nearest Neighbor (KNN), SVM, Decision Tree, Random Forest, Gradient-Boost and XGBoost.
-      - Unsupervised Learning: Clustering using K-Means, Agglomerative, Spectral, Affinity and DBSCAN.
-   * Natural Language Processing (NLP), Image Processing and Recommendation Systems.
-   * Deep learning, including: Deep learning Implementation and Neural network architectures.
-   * A/B Testing.
-   * Data Science at scale including: Hadoop, Spark, PySpark and Neural networks.
+   * Manipulate big and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
+        EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details here.
+   * Use multiple APIs (Quandl API, GREATSchools REST API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
+        extract insights. Projects details here.
+   *  Create multiple advanced time series models using ARIMA/SARIMA, Neural Prophet (Facebook) and Greykite (LinkedIn) for 
+        forecasting. Projects details here and here.
+   * Perform frequentist statistical inference using python by utilizing many statistical concepts: probability distributions, 
+        estimation techniques, central limit theorem, confidence intervals, hypothesis testing (z-statistic, t-statistic, p-value). Projects 
+        details here.
+   * Perform A/B Testing to increase revenue (in-app purchase) and players’ s enjoyment/engagements. Project details here.
+   * Build Movies recommendation Engines using SVD (Collaborative filtering) and Tensorflow Recommenders (TFRS- 
+        Google/YouTube Hybrid based recommender). Projects details here and here.
+   * Design, built and fine tune multiple supervised Regression models: Linear, Ridge, Lasso, Gradient boosting, Decision Tree, 
+        Random Forest, XGBoost, LightGBM, ANN (Artificial Neural Network) and stacking. Project details here.
+   * Design, built and fine tune multiple supervised Classification models (Binary and multiple classifiers): Linear, logistic, Decision 
+        Tree, Random Forest, SVM and XGBoost. Project details here, here and here.
+   * Utilize RandomizedSearchCV to fine tune the most important hyperparameters of regression/classification models to improve 
+        R^2/RMSE/Variance Score (Regression) and accuracy/recall/precision/AUC (Classification). Projects detail here.
+   * Utilized SMOTE (Synthetic Minority Over-Sampling Technique) for data augmentation to help unbalanced dataset to provide 
+        better predictions in classification Models (reduce miss predictions/AUC). Project detail here.
+   * Create multiple clustering models using unsupervised Machine Learning: K-means powered by Tableau. Projects detail here 
+        and here.
+   * Deploy E2E Web Application using Python, AWS EC2 (Amazon) and Streamlit. Menara App.
+   * Manipulate and transform big data using MySQL, PostgreSQL, Python (sqlalchemy library) and SQLite. Project details here.
+   * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail here.
+
   
 👇𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦👇
 
-  * Constant Learner.
-  * Primary Language: Python (NumPy, Pandas, Scikit-learn, TensorFlow, keras, Scrapy, BeautifulSoup, requests, etc.).
-  * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL.
-  * Data Visualizations: Tableau, looker, Matplotlib, seaborn and Plotly.
-  * Tableau Certified: Data Scientist & Data Analyst.
-  * Business Intelligence Tools: business object, AWS SageMaker, Jupyter/Anaconda, GitHub/Git, Toad Datapoint, Microsoft Excel, Microsoft Power Point and PowerBI.
-  * Ability to perform Data cleaning, wrangling and exploratory data analysis in all type of Data: images, TXT, CSV, EXCEL, JSON, XML, MATLAB, SAS, Stats files, HDF5 files, request data from API and web scraping.
-  * Effective verbal and written communication for technical and non-technical audiences.
-  * Passionate about working with big data and the ability to translate insights into business recommendations.
-  * Outstanding problem solving and analytical skills.
+   * Constant Learner: Currently focused on 5G and Advanced Machine Learning/Data Science.
+   * Ericsson GSM/LTE/UMTS/5GNR OSS Tools: All ENM CLI/AMOS Commands and Scripting.
+   * Primary Language: Python (NumPy, Pandas, scikit-learn, TensorFlow, keras, Scrapy, BeautifulSoup, requests, etc.).
+   * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL.
+   * Data Visualizations: Tableau, looker, Matplotlib, seaborn, Streamlit and Plotly.
+   * Automation: FME Workbench/Server.
+   * Tableau Certified: Data Scientist & Data Analyst.
+   * Business Intelligence Tools: business object, AWS SageMaker, AWS EC2, Streamlit, Jupyter/Anaconda, GitHub/Git, Toad Datapoint, Microsoft Excel, Microsoft Power Point and PowerBI.
+   * Effective verbal and written communication for technical and non-technical audiences.
+   * Passionate about working with big data and the ability to translate insights into business recommendations.
+   * Outstanding problem solving and analytical skills.
+   * Strong attention to detail, and excellent organization skills.
 
 
 👇I’d love to chat further, please feel free to reach me on:👇 
