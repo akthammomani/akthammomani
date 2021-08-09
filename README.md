@@ -5,8 +5,6 @@
 
 Data Scientist / Data Analyst with a bachelor’s degree in engineering and 15 + years of professional experience - regularly analyzing data using SQL, Tableau and other BI tools to extract, manipulate, build matrices and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. Recently obtaining a certificate in Data Science - Advanced Machine Learning from Springboard to enhance my skills further in Python, Data Cleaning, Data Wrangling, EDA, ETL, Pre-Processing & Training, Feature Engineering, Machine Learning Algorithms, and Forecasting.
 
-👇𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦👇
-
    * Manipulate big and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
         EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details here.
    * Use multiple APIs (Quandl API, GREATSchools REST API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
