@@ -4,11 +4,11 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
 
 Data Scientist and Machine Learning Engineer with a bachelor’s degree in engineering and 15 + years of professional experience - regularly:
-   * Analyzing big data using Python, SQL, Tableau and other BI tools to extract, manipulate and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. 
+   * Analyzing large-scale data using Python, SQL, Tableau and other BI tools to extract, manipulate and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. 
    * Applying advanced machine learning, deep learning, and data mining techniques in different domains.
 
 **𝗦ummary Of Qualifications:**
-   * Manipulate big and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
+   * Manipulate large-scale and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
         EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Data_Wrangling).
    * Use multiple APIs (Quandl API, GREATSchools REST API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
         extract insights. Projects details [here](https://github.com/akthammomani/API-XML-JSON-TO-Pandas).
