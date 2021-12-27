@@ -40,7 +40,7 @@ Data Scientist and Machine Learning Engineer with a bachelor’s degree in engin
    * Constant Learner: Currently focused on 5G and Advanced Machine Learning/Data Science.
    * Ericsson GSM/LTE/UMTS/5GNR OSS Tools: All ENM CLI/AMOS Commands and Scripting.
    * Primary Language: Python (NumPy, Pandas, scikit-learn, TensorFlow, keras, Scrapy, BeautifulSoup, requests, etc.).
-   * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL.
+   * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL and Teradata.
    * Data Visualizations: Tableau, looker, Matplotlib, seaborn, Streamlit and Plotly.
    * Automation: FME Workbench/Server.
    * Tableau Certified: Data Scientist & Data Analyst.
