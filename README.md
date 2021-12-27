@@ -35,7 +35,7 @@ Data Scientist and Machine Learning Engineer with a bachelor’s degree in engin
    * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail [here](https://github.com/akthammomani/).
 
   
-👇𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗤𝗨𝗔𝗟𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦👇
+👇𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦👇
 
    * Constant Learner: Currently focused on 5G and Advanced Machine Learning/Data Science.
    * Ericsson GSM/LTE/UMTS/5GNR OSS Tools: All ENM CLI/AMOS Commands and Scripting.
