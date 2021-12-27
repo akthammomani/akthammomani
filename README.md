@@ -3,7 +3,7 @@
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
 
-Data Scientist and Machine Learning Engineer with a bachelor’s degree in engineering and 15 + years of professional experience - regularly:
+Data Scientist and Machine Learning Engineer with a bachelor’s degree in engineering and 15 + years of professional experience - **regularly**:
    * Analyzing large-scale data using Python, SQL, Tableau and other BI tools to extract, manipulate and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. 
    * Applying advanced machine learning, deep learning, and data mining techniques in different domains.
 
