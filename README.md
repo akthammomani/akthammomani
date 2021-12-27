@@ -1,5 +1,5 @@
 
-[![Header](https://user-images.githubusercontent.com/67468718/147504073-01889324-5205-4893-a80e-afeb3fb03c38.jpg "Header")](https://linkedin.com/in/akthammomani/)
+[![Header](https://user-images.githubusercontent.com/67468718/147505322-726b5a32-9902-47fa-a451-027481cd97bd.jpg "Header")](https://linkedin.com/in/akthammomani/)
 
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="30px">
