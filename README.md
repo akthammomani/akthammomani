@@ -7,7 +7,7 @@ Data Scientist and Machine Learning Engineer with a bachelor’s degree in engin
    * Analyzing big data using Python, SQL, Tableau and other BI tools to extract, manipulate and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. 
    * Applying advanced machine learning, deep learning, and data mining techniques in different domains.
 
-**𝗦𝘂𝗺𝗺𝗮𝗿𝘆 𝗢𝗳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:**
+**𝗦ummary Of Qualifications:**
    * Manipulate big and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
         EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Data_Wrangling).
    * Use multiple APIs (Quandl API, GREATSchools REST API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
