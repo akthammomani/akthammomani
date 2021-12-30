@@ -31,7 +31,7 @@ Data Scientist and Machine Learning Engineer with a bachelor’s degree in engin
         better predictions in classification Models (reduce miss predictions/AUC). Project detail [here](https://github.com/akthammomani/Predicting-Song-Genres-Binary-Classifier).
    * Create multiple clustering models using unsupervised Machine Learning: K-means powered by Tableau. Projects detail [here](https://github.com/akthammomani/Customers-Segmentation-Kmeans-Clustering-Tableau)
         and [here](https://github.com/akthammomani/US-Drivers-Segmentation-KMeans-Clustering-Tableau).
-   * Deploy E2E Web Application using Python, AWS EC2 (Amazon) and Streamlit. [Menara App](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py).
+   * Build and deploy E2E Web Application using Python, AWS EC2 (Amazon), MS Azure, Streamlit and Webservers: NGINX and Caddy. [Menara App](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py).
    * Manipulate and transform big data using MySQL, PostgreSQL, Python (sqlalchemy library) and SQLite. Project details [here](https://github.com/akthammomani/SQL-Data-Science-Projects).
    * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail [here](https://github.com/akthammomani/).
 
@@ -44,6 +44,7 @@ Data Scientist and Machine Learning Engineer with a bachelor’s degree in engin
    * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL and Teradata.
    * Data Visualizations: Tableau, looker, Matplotlib, seaborn, Streamlit and Plotly.
    * Automation: FME Workbench/Server.
+   * Webservers: NGINX and Caddy.
    * Tableau Certified: Data Scientist & Data Analyst.
    * Business Intelligence Tools: business object, AWS SageMaker, AWS EC2, Streamlit, Jupyter/Anaconda, GitHub/Git, Toad Datapoint, Microsoft Excel, Microsoft Power Point and PowerBI.
    * Effective verbal and written communication for technical and non-technical audiences.
