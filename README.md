@@ -2,7 +2,7 @@
 [![Header](https://user-images.githubusercontent.com/67468718/147505322-726b5a32-9902-47fa-a451-027481cd97bd.jpg "Header")](https://linkedin.com/in/akthammomani/)
 
 
-# Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="3px">
+# Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="1px">
 
 Data Scientist and Machine Learning Engineer with a bachelor’s degree in engineering and 15 + years of professional experience - **regularly**:
    * Analyzing large-scale data using Python, SQL, Tableau and other BI tools to extract, manipulate and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. 
