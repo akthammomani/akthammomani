@@ -4,9 +4,11 @@
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="1px">
 
-Data Scientist and Machine Learning Engineer with a bachelor’s degree in engineering and 15 + years of professional experience - **regularly**:
-   * Analyzing large-scale data using Python, SQL, Tableau and other BI tools to extract, manipulate and visualize data to extract insights. Passionate about data, specifically big data and the ability to translate insights into business recommendations. 
-   * Applying advanced machine learning, deep learning, and data mining techniques in different domains.
+I'm a Data Scientist and Machine Learning Engineer. My core skills lie in applying advanced machine learning, deep learning, and data mining techniques to solve complex problems in various domains. Whether it's analyzing large-scale data or developing predictive models, I'm passionate about leveraging cutting-edge technologies to extract valuable insights from data.
+
+In addition to my technical expertise, I have a strong business acumen that enables me to translate insights into actionable recommendations. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver impactful solutions.
+
+If you're looking for a skilled and experienced data scientist who can apply advanced machine learning, deep learning, and data mining techniques to help your organization succeed, please don't hesitate to connect with me.
 
 **𝗦ummary Of Qualifications:**
    * Manipulate large-scale and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
@@ -36,23 +38,6 @@ Data Scientist and Machine Learning Engineer with a bachelor’s degree in engin
    * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail [here](https://github.com/akthammomani/).
 
   
-👇𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦👇
-
-   * Constant Learner: Currently focused on 5G and Advanced Machine Learning/Data Science.
-   * Ericsson GSM/LTE/UMTS/5GNR OSS Tools: All ENM CLI/AMOS Commands and Scripting.
-   * Primary Language: Python (NumPy, Pandas, scikit-learn, TensorFlow, keras, Scrapy, BeautifulSoup, requests, etc.).
-   * Database Server: Sybase, Oracle, HP Pride/Vertica, AT&T Cloud, MariaDB, MS SQL and Teradata.
-   * Data Visualizations: Tableau, looker, Matplotlib, seaborn, Streamlit and Plotly.
-   * Automation: FME Workbench/Server.
-   * Webservers: NGINX and Caddy.
-   * Tableau Certified: Data Scientist & Data Analyst.
-   * Business Intelligence Tools: business object, AWS SageMaker, AWS EC2, Streamlit, Jupyter/Anaconda, GitHub/Git, Toad Datapoint, Microsoft Excel, Microsoft Power Point and PowerBI.
-   * Effective verbal and written communication for technical and non-technical audiences.
-   * Passionate about working with big data and the ability to translate insights into business recommendations.
-   * Outstanding problem solving and analytical skills.
-   * Strong attention to detail, and excellent organization skills.
-
-
 👇I’d love to chat further, please feel free to reach me on:👇 
 
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/akthammomani/) [![MAIL Badge](https://img.shields.io/badge/-aktham.momani81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aktham.momani81@gmail.com)](mailto:aktham.momani81@gmail.com) 
