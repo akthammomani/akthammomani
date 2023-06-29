@@ -1,7 +1,7 @@
 
 [![Header](https://user-images.githubusercontent.com/67468718/147505322-726b5a32-9902-47fa-a451-027481cd97bd.jpg "Header")](https://linkedin.com/in/akthammomani/)
 
-[![Header](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/assets/67468718/56ba8e85-4df1-41bc-941e-16b835bfabac "Header")](https://linkedin.com/in/akthammomani/)
+[![Header](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/assets/67468718/028a59a1-0b45-4d5e-b72c-d66d9f7dc4a5 "Header")](https://linkedin.com/in/akthammomani/)
 
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="1px">
