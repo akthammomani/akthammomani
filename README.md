@@ -8,8 +8,6 @@ I'm a Data Scientist and Machine Learning Engineer. My core skills lie in applyi
 
 In addition to my technical expertise, I have a strong business acumen that enables me to translate insights into actionable recommendations. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver impactful solutions.
 
-If you're looking for a skilled and experienced data scientist who can apply advanced machine learning, deep learning, and data mining techniques to help your organization succeed, please don't hesitate to connect with me.
-
 **𝗦ummary Of Qualifications:**
    * Manipulate large-scale and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
         EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Data_Wrangling).
@@ -38,7 +36,7 @@ If you're looking for a skilled and experienced data scientist who can apply adv
    * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail [here](https://github.com/akthammomani/).
 
   
-👇I’d love to chat further, please feel free to reach me on:👇 
+👇If you're looking for a skilled and experienced data scientist who can apply advanced machine learning, deep learning, and data mining techniques to help your organization succeed, please don't hesitate to connect with me👇 
 
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/akthammomani/) [![MAIL Badge](https://img.shields.io/badge/-aktham.momani81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aktham.momani81@gmail.com)](mailto:aktham.momani81@gmail.com) 
 
