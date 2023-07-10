@@ -7,32 +7,16 @@ I'm a Data Scientist and Machine Learning Engineer. My core skills lie in applyi
 
 In addition to my technical expertise, I have a strong business acumen that enables me to translate insights into actionable recommendations. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver impactful solutions.
 
-**𝗦ummary Of Qualifications:**
-   * Manipulate large-scale and high-dimensionality data (cleaning, wrangling and exploratory data analysis), using: images, TXT, CSV,   
-        EXCEL, JSON, XML, MATLAB, SAS, Stats files and HDF5 files. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Data_Wrangling).
-   * Use multiple APIs (Quandl API, GREATSchools REST API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
-        extract insights. Projects details [here](https://github.com/akthammomani/API-XML-JSON-TO-Pandas).
-   *  Create multiple advanced time series models using ARIMA/SARIMA, Neural Prophet (Facebook) and Greykite (LinkedIn) for 
-        forecasting. Projects details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Neural-Prophet-Forecast). and [here](https://github.com/akthammomani/Advanced-Time-Series-Sales-Forecasting-ARIMA-SARIMA).
-   * Perform frequentist statistical inference using python by utilizing many statistical concepts: probability distributions, 
-        estimation techniques, central limit theorem, confidence intervals, hypothesis testing (z-statistic, t-statistic, p-value). Projects 
-        details [here](https://github.com/akthammomani/Frequentist-Inference-Hypothesis-Testing).
-   * Perform A/B Testing to increase revenue (in-app purchase) and players’ s enjoyment/engagements. Project details here.
-   * Build Movies recommendation Engines using SVD (Collaborative filtering) and Tensorflow Recommenders (TFRS- 
-        Google/YouTube Hybrid based recommender). Projects details [here](https://github.com/akthammomani/Recommender-System-Using-Python) and [here](https://github.com/akthammomani/MAXELLA-APP-Movies-Tensorflow-Recommenders-TFRS).
-   * Design, built and fine tune multiple supervised Regression models: Linear, Ridge, Lasso, Gradient boosting, Decision Tree, 
-        Random Forest, XGBoost, LightGBM, ANN (Artificial Neural Network) and stacking. Project details [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Modeling).
-   * Design, built and fine tune multiple supervised Classification models (Binary and multiple classifiers): Linear, logistic, Decision 
-        Tree, Random Forest, SVM and XGBoost. Project details [here](https://github.com/akthammomani/Logistic-Regression-Gender-Classification), [here](https://github.com/akthammomani/Binary-Classifier-Predicting-Credit-Card-Approval) and [here](https://github.com/akthammomani/Random-Forests-Multi-Class-Classifier/tree/main/Random-Forests-COVID-19).
-   * Utilize RandomizedSearchCV to fine tune the most important hyperparameters of regression/classification models to improve 
-        R^2/RMSE/Variance Score (Regression) and accuracy/recall/precision/AUC (Classification). Projects detail [here](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/tree/main/Notebooks/Modeling).
-   * Utilize SMOTE (Synthetic Minority Over-Sampling Technique) for data augmentation to help unbalanced dataset to provide 
-        better predictions in classification Models (reduce miss predictions/AUC). Project detail [here](https://github.com/akthammomani/Predicting-Song-Genres-Binary-Classifier).
-   * Create multiple clustering models using unsupervised Machine Learning: K-means powered by Tableau. Projects detail [here](https://github.com/akthammomani/Customers-Segmentation-Kmeans-Clustering-Tableau)
-        and [here](https://github.com/akthammomani/US-Drivers-Segmentation-KMeans-Clustering-Tableau).
-   * Build and deploy E2E Web Application using Python, AWS EC2 (Amazon), MS Azure, Streamlit and Webservers: NGINX and Caddy. [Menara App](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py).
-   * Manipulate and transform big data using MySQL, PostgreSQL, Python (sqlalchemy library) and SQLite. Project details [here](https://github.com/akthammomani/SQL-Data-Science-Projects).
-   * Utilize advanced Visualization skills to extract insights using: Matplotlib, seaborn, Tableau and Plotly. Projects detail [here](https://github.com/akthammomani/).
+**Core Skills & Qualifications:**
+   * **Machine Learning/NLP:** Advanced skills in machine learning (Supervised & Un-supervised ML) and natural language processing (NLP) libraries including NLTK, SpaCy, BERT, T5, TF-IDF Vectorizer, wordninja and sentence_transformers.
+   * **Primary Languages:** Proficient in Python using libraries such as Pandas, NumPy, Scikit-learn, TensorFlow 2.0, Keras, Requests, json, Plotly, seaborn, RegEX. Experience in SQL, Spark (via Databricks), Bash and curl for API interactions.
+   * **Web Servers:** Hands-on experience deploying end-to-end web applications using NGINX and Caddy.
+   * **Data Platforms:** Extensive knowledge in managing large datasets using Databricks, Snowflake, and DEEP Palantir.
+   * **Data Visualization:** Skilled in creating impactful visualizations using Tableau, Matplotlib, Seaborn, Streamlit, and Plotly. Certified in Tableau for Data Science and Data Analysis.
+   * **Business Intelligence Tools:** Experienced with AWS SageMaker, AWS EC2, Streamlit, Jupyter/Anaconda, GitHub/Git, Process Mining (Azure Process Advisor & Minit), Toad Datapoint and MS Power BI/Excel/PowerPoint.
+   * **Communication Skills:** Excellent verbal and written communication abilities for both technical and non-technical audiences.
+   * **Analytical Skills:** Passionate about working with big data, translating insights into business recommendations, and solving complex problems.
+   * **Organization Skills:** Detail-oriented with strong organizational capabilities.
 
   
 👇If you're looking for a skilled and experienced data scientist who can apply advanced machine learning, deep learning, and data mining techniques to help your organization succeed, please don't hesitate to connect with me👇 
