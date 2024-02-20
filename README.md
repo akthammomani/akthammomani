@@ -8,8 +8,8 @@ I'm a Data Scientist and Machine Learning Engineer. My core skills lie in applyi
 In addition to my technical expertise, I have a strong business acumen that enables me to translate insights into actionable recommendations. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver impactful solutions.
 
 **Core Skills & Qualifications:**
-   * **Machine Learning/NLP:** Advanced skills in machine learning (Supervised & Un-supervised ML) and natural language processing (NLP) libraries including NLTK, SpaCy, BERT, T5, TF-IDF Vectorizer, wordninja and sentence_transformers.
-   * **Primary Languages:** Proficient in Python using libraries such as Pandas, NumPy, Scikit-learn, TensorFlow 2.0, Keras, Requests, json, Plotly, seaborn, RegEX. Experience in SQL, Spark (via Databricks), Bash and curl for API interactions.
+   * **Machine Learning/NLP:** Advanced skills in machine learning (Supervised & Un-supervised ML) and natural language processing (NLP) libraries including LLM, NLTK, SpaCy, BERT, T5, TF-IDF Vectorizer, wordninja and sentence_transformers.
+   * **Primary Languages:** Proficient in SQL, Spark (via Databricks) and Python, regularly using libraries such as Pandas, NumPy, Scikit-learn, TensorFlow 2.0, Keras, Requests, json, Plotly, seaborn, RegEX. Experience in Bash and curl for API interactions.
    * **Web Servers:** Hands-on experience deploying end-to-end web applications using NGINX and Caddy.
    * **Data Platforms:** Extensive knowledge in managing large datasets using Databricks, Snowflake, and DEEP Palantir.
    * **Data Visualization:** Skilled in creating impactful visualizations using Tableau, Matplotlib, Seaborn, Streamlit, and Plotly. Certified in Tableau for Data Science and Data Analysis.
@@ -36,6 +36,7 @@ https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-
 ## 🔨 <ins> Technologies & Tools<ins> 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=pyspark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
