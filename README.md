@@ -1,4 +1,4 @@
-[![Header](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA/assets/67468718/028a59a1-0b45-4d5e-b72c-d66d9f7dc4a5 "Header")](https://linkedin.com/in/akthammomani/)
+
 
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="1px">
