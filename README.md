@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- |
-|AI-Power Heart Disease Risk Assessment App|[It's a tool developed to empower individuals with personalized insights into their cardiovascular health](https://github.com/akthammomani/AI_powered_heart_disease_risk_assessment_app/tree/main) [streamlit app](https://ai-powered-heart-disease-assessment.streamlit.app/)|  
+|AI-Power Heart Disease Risk Assessment App|[It's a tool developed to empower individuals with personalized insights into their cardiovascular health](https://github.com/akthammomani/AI_powered_heart_disease_risk_assessment_app/tree/main) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-heart-disease-assessment.streamlit.app/)|  
 |Menara App| [Build a Web App called Menara to Predict, Forecast House Prices and search GreatSchools in California - Bay Area](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://blog.streamlit.io/monthly-rewind-june-2021/)|
 |Maxella App|  [Movies Recommendations Engine (Hybrid) using TensorFlow Recommender (TFRS) and MovieLens 1 Million Dataset](https://github.com/akthammomani/MAXELLA-APP-Movies-Tensorflow-Recommenders-TFRS)|  
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
