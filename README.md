@@ -30,7 +30,9 @@ In addition to my technical expertise, I have a strong business acumen that enab
 
 **[AI-Powered Heart Disease Risk Assessment App](https://github.com/akthammomani/AI_powered_heart_disease_risk_assessment_app)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-heart-disease-assessment.streamlit.app/)
 
-**[AI-Powered Recipe Recommender](https://github.com/akthammomani/AI_Powered_Recipe_Recommender)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-recipe-recommender.streamlit.app//)
+**[AI-Powered Maestro Finder App](https://github.com/akthammomani/ai_powered_maestro_finder)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-maestro-finder.streamlit.app/)
+
+**[AI-Powered Recipe Recommender](https://github.com/akthammomani/AI_Powered_Recipe_Recommender)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-recipe-recommender.streamlit.app/)
 
 **[Menara App](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)
   
