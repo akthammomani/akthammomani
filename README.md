@@ -62,6 +62,7 @@ https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- |
+|BitePulse-AI App|[Early detection and habit coaching from your bite patterns](https://github.com/akthammomani/BitePulse-AI/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://bitepulse-ai-test-1.streamlit.app/)|  
 |Strivio-PM App|[A Free project manager tool with tasks, subtasks, assignees, and Plotly Gantt timelines (SQLite powered).](https://github.com/akthammomani/strivio-pm) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://strivio-pm.streamlit.app/)|  
 |AI-Powered Apple Leaf Specialist App|[Identifies common apple leaf issues from photos and provides clear care steps](https://github.com/akthammomani/ai_powered_apple_leaf_specialist) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-apple-leaf-specialist.streamlit.app/)|  
 |AI-Powered Maestro Finder App|[Shazam-style composer ID for classical piano (MIDI or audio) with a compact CNN. Streamlit UI + Colab notebooks](https://github.com/akthammomani/ai_powered_maestro_finder) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-maestro-finder.streamlit.app/)|  
