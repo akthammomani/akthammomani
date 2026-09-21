@@ -3,23 +3,13 @@
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/akthammomani/akthammomani/master/wave.gif" width="1px">
 
-I'm a Data Scientist and Machine Learning Engineer. My core skills lie in applying advanced machine learning, deep learning, and data mining techniques to solve complex problems in various domains. Whether it's analyzing large-scale data or developing predictive models, I'm passionate about leveraging cutting-edge technologies to extract valuable insights from data.
+AI and Data Science leader with 15+ years of experience across advanced analytics, artificial intelligence, engineering, and technology transformation, including extensive leadership experience at AT&T. Proven track record leading high-impact AI and analytics initiatives from business problem definition and solution strategy through model development, automation, operationalization, AI governance, model lifecycle management, and executive decision support.
 
-In addition to my technical expertise, I have a strong business acumen that enables me to translate insights into actionable recommendations. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver impactful solutions.
+Experienced in translating complex business challenges into scalable AI and analytics solutions and shaping data-driven strategies across customer experience, operations, sales, network, and digital transformation. Led cross-functional initiatives involving Generative AI (GenAI), Large Language Models (LLMs), Generative BI (GenBI), predictive modeling, behavioral intelligence, segmentation, forecasting, process optimization, and intelligent automation, delivering measurable operational improvements and multimillion-dollar business impact.
 
-**Core Skills & Qualifications:**
-   * **Machine Learning/NLP:** Advanced skills in machine learning (Supervised & Un-supervised ML) and natural language processing (NLP) libraries including LLM, NLTK, SpaCy, BERT, T5, TF-IDF Vectorizer, wordninja and sentence_transformers.
-   * **Primary Languages:** Proficient in SQL, Spark (via Databricks) and Python, regularly using libraries such as Pandas, NumPy, Scikit-learn, TensorFlow 2.0, Keras, Requests, json, Plotly, seaborn, RegEX. Experience in Bash and curl for API interactions.
-   * **Web Servers:** Hands-on experience deploying end-to-end web applications using NGINX and Caddy.
-   * **Data Platforms:** Extensive knowledge in managing large datasets using Databricks, Snowflake, and DEEP Palantir.
-   * **Data Visualization:** Skilled in creating impactful visualizations using Tableau, Matplotlib, Seaborn, Streamlit, and Plotly. Certified in Tableau for Data Science and Data Analysis.
-   * **Business Intelligence Tools:** Experienced with AWS SageMaker, AWS EC2, Streamlit, Jupyter/Anaconda, GitHub/Git, Process Mining (Azure Process Advisor & Minit), Toad Datapoint and MS Power BI/Excel/PowerPoint.
-   * **Communication Skills:** Excellent verbal and written communication abilities for both technical and non-technical audiences.
-   * **Analytical Skills:** Passionate about working with big data, translating insights into business recommendations, and solving complex problems.
-   * **Organization Skills:** Detail-oriented with strong organizational capabilities.
+Strong combination of strategic leadership and hands-on technical depth, with experience managing and mentoring analytics professionals, influencing senior stakeholders, and building production-ready solutions using Python, SQL, Snowflake, Azure Databricks, machine learning, NLP, and cloud technologies. Master of Science in Applied Artificial Intelligence, with a focus on turning emerging AI capabilities into practical, scalable, governed, and sustainable business outcomes.
 
-  
-👇If you're looking for a skilled and experienced data scientist who can apply advanced machine learning, deep learning, and data mining techniques to help your organization succeed, please don't hesitate to connect with me👇 
+I’m particularly interested in opportunities where I can help organizations define and execute their AI roadmap, strengthen AI governance, build scalable data science and GenAI capabilities, accelerate automation, and lead enterprise AI transformation.
 
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/akthammomani/) [![MAIL Badge](https://img.shields.io/badge/-aktham.momani81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aktham.momani81@gmail.com)](mailto:aktham.momani81@gmail.com) 
 
