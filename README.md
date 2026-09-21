@@ -22,6 +22,8 @@ I’m particularly interested in opportunities where I can help organizations de
 
 **[BitePulse AI](https://github.com/akthammomani/BitePulse-AI/)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://bitepulse-ai-test-1.streamlit.app/)
 
+**[ClusterLens](https://github.com/akthammomani/ClusterLens/)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://clusterlens-documentation.streamlit.app/)
+
 **[Strivio-PM](https://github.com/akthammomani/strivio-pm)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://strivio-pm.streamlit.app/)
 
 **[AI-Powered Apple Leaf Specialist App](https://github.com/akthammomani/ai-powered-apple-leaf-specialist)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://ai-powered-apple-leaf-specialist.streamlit.app/)
