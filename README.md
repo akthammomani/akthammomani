@@ -34,10 +34,7 @@ I’m particularly interested in opportunities where I can help organizations de
 
 **[Menara App](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA)
   
-https://user-images.githubusercontent.com/67468718/122706472-dd597500-d20c-11eb-8834-3780f7cadf05.MP4  
-  
-
-## 🔨 <ins> Technologies & Tools<ins> 
+ ## 🔨 <ins> Technologies & Tools<ins> 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=pyspark&logoColor=white&color=2bbc8a)
